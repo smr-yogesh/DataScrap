@@ -1,7 +1,7 @@
 from typing import Container
 import pandas as pd
 
-datapath= 'output.xlsx'
+datapath= 'data.xlsx'
 outpath='data.json'
 data = pd.read_excel(datapath)
 

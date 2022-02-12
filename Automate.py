@@ -2,7 +2,10 @@ import os
 import time
 
 i = 0
-while i < 2:
-    #time.sleep(10)
+while i < 1:
     os.system("scrape.py")
+    print('data acquired')
+    time.sleep(5)
+    os.system("converter.py")
+    print('Data converted')
     i += 1
