@@ -2,6 +2,7 @@
 from flask import *
 import json, time
 
+
 app = Flask(__name__)
 f = open('data.json')
 data = json.load(f)

@@ -1,5 +1,6 @@
 from typing import Container
 import pandas as pd
+import os
 
 datapath= 'data.xlsx'
 outpath='data.json'
@@ -24,6 +25,5 @@ while i< len(Symbols):
         {"Change:": Change[i]}
     ]
     i = i +1
-
 df = pd.DataFrame(container)
 df.to_json(outpath, indent=4)
