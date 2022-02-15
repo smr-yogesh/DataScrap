@@ -1,12 +1,18 @@
 import os, sys, time
 
-#i = 0
-#while i < 1:
-os.system("scrape.py")
+def countdown(t):
+    
+    while t:
+        mins, secs = divmod(t, 60)
+        timer = '{:02d}:{:02d}'.format(mins, secs)
+        print(timer, end="\r")
+        time.sleep(1)
+        t -= 1
 
-#print('data acquired')
+os.system("scrape.py")
+print("Starting webserver in:")
+countdown(int(5))
 #time.sleep(5)
 #os.system("converter.py")
-#print('Data converted')
-    #i += 1
+os.system("main.py")
 
