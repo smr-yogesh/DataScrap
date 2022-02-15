@@ -1,7 +1,3 @@
-
-from importlib.abc import FileLoader
-from msilib.schema import Environment
-from unittest import loader
 from flask import *
 import json, time
 from jinja2 import environment, FileSystemLoader
@@ -13,6 +9,10 @@ with open("data/data.json","r") as d:
 @app.route('/')
 def home_page():
     return render_template('index.html',nepse = nepse)
+
+@app.route('/api')
+def api():
+    return jsonify(nepse)
 
 if __name__ == '__main__':
     app.run(port=5000)
