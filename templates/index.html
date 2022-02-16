@@ -22,12 +22,12 @@
           <th>Open</th>
         </tr>
       </thead>
-      <tbody>
+      <tbody style="color:#ffffff;">
         {%for data in nepse%}
         {%if data.Change < 0%}
-          {% set a = '#FF0000'%} 
+          {% set a = '#AC2925'%} 
           {%else%} 
-          {% set a = '#00FF00'%}
+          {% set a = '#398439'%}
         {%endif%} 
         <tr style="background-color: {{a}};">
           <th>{{data.Symbols}}</th>
