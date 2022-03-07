@@ -3,3 +3,4 @@ data.json
 converter.py
 .venv
 __pycache__
+Dockerfile

@@ -11,8 +11,7 @@ def countdown(t):
 
 os.system("scrape.py")
 print("Starting webserver in:")
-countdown(int(5))
+#countdown(int(5))
 #time.sleep(5)
 #os.system("converter.py")
 os.system("main.py")
-

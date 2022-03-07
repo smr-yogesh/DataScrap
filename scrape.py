@@ -4,10 +4,11 @@ import json
 
 from sqlalchemy import true
 
-outpath='data/data.json'
+outpath='/data/data.json'
 
 if (os.path.exists(outpath)):
     os.remove(outpath)
+    
 print("Old data removed")
 dfs = pd.read_html('https://www.nepalipaisa.com/StockLive.aspx')
 len(dfs)
