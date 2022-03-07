@@ -16,3 +16,11 @@ jobs:
     - uses: actions/checkout@v2
     - name: Build the Docker image
       run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
+    
+    - name:  Push Docker image
+      uses: mr-smithers-excellent/docker-build-push@v5
+      with:
+        image: lonewolfxx/datascrape
+        registry: docker.io
+        username: ${{ secrets.DOCKER_USERNAME }}
+        password: ${{ secrets.DOCKER_PASSWORD }} 
