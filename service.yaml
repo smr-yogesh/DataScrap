@@ -5,3 +5,8 @@ metadata:
 spec:
   selector:
     app: datascrape
+  ports:
+    - protocol: 'TCP'                 # there can be more ports just write line 9, 10, 11 
+      port: 5000                      # again with new values
+      targetPort: 5000
+  type: LoadBalancer
