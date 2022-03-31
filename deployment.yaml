@@ -1,0 +1,17 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: datascrape
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: datascrape
+  template:
+    metadata:
+      labels:
+        app: datascrape
+    spec:
+      containers:
+        - name: datascrape-py
+          image: lonewolfxx/datascrape-public
