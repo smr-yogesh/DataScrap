@@ -7,6 +7,8 @@ spec:
   selector:
     matchLabels:
       app: datascrape
+  # matchExpressions:<This is another type of selector>
+  #   - {key: app, oprator:In, values: [datascrape]}
   template:
     metadata:
       labels:
@@ -14,4 +16,10 @@ spec:
     spec:
       containers:
         - name: datascrape-py
-          image: lonewolfxx/datascrape-public
+          image: lonewolfxx/datascrape-public:latest
+          livenessProbe:
+            httpGet:
+              path: /
+              port: 5000
+            periodSeconds: 10
+            initialDelaySeconds: 5
