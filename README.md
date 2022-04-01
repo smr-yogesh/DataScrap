@@ -20,4 +20,4 @@ pip install -r requirements.txt
 Run main.py and automate.py simultaneously in different terminal. Like below.
 
 
-![] (https://ibb.co/s9KrxRM)
+![] (https://i.postimg.cc/Rh9dVsWc/two-apps-at-a-same-time.jpg)
