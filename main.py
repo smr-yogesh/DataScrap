@@ -16,9 +16,9 @@ def home_page():
 def api():
     return jsonify(nepse)
 
-
-
-
-
+@app.route('/error')
+def error():
+    return os._exit(0)
+    
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5000)
