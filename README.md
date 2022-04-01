@@ -12,3 +12,9 @@ NOTE:- FOR FIRST TIME PLEASE START FROM RUNNING AUTOMATE.PY FIRST.
 
 You may ask why it does not directly takes data and shows in localhost as table data, its because i wanted and it includes several functions and i get better at them.
 and again that json file can be used to make own api aswell. ANd this program returns api aswell at "/api".
+
+#Follow these commands to start
+
+pip install -r requirements.txt
+
+Start with automate.py (Not main.py)
