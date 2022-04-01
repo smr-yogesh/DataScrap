@@ -15,10 +15,6 @@ def home_page():
 @app.route('/api')
 def api():
     return jsonify(nepse)
-
-
-
-
-
+    
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5000)
