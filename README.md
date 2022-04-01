@@ -17,4 +17,7 @@ and again that json file can be used to make own api aswell. ANd this program re
 
 pip install -r requirements.txt
 
-Start with automate.py (Not main.py)
+Run main.py and automate.py simultaneously in different terminal. Like below.
+
+
+![] (https://ibb.co/s9KrxRM)
