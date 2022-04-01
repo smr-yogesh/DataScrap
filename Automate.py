@@ -8,10 +8,11 @@ def countdown(t):
         print(timer, end="\r")
         time.sleep(1)
         t -= 1
-
-os.system("scrape.py")
-print("Starting webserver in:")
-#countdown(int(5))
-#time.sleep(5)
-#os.system("converter.py")
-os.system("main.py")
+value = True
+while (value):
+    os.system("scrape.py")
+    #print("Starting webserver in:")
+    countdown(int(10))
+    #time.sleep(10)
+    #os.system("converter.py")
+    #os.system("main.py")
