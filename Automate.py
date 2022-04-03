@@ -14,4 +14,5 @@ while (value):
     os.system("scrape.py")
     print("Data will refresh in:")
     countdown(int(10))
+    os.system("main.py")
     
