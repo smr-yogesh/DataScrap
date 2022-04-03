@@ -6,6 +6,7 @@ from jinja2 import environment, FileSystemLoader
 app = Flask(__name__)
 
 def read_nepse_data():
+    os.system("scrape.py")
     with open("data/data.json","r") as d:
         nepse = json.load(d)
         return nepse 

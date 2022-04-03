@@ -4,13 +4,10 @@ import json
 
 from sqlalchemy import true
 
-a = 0
 outpath='data/data.json'
 
 if (os.path.exists(outpath)):
     os.remove('data/data.json')
-    a = 1
-    print("Old data removed")
 
 dfs = pd.read_html('https://www.nepalipaisa.com/StockLive.aspx')
 len(dfs)
@@ -22,7 +19,3 @@ df.rename(columns={'Closing Price' : 'Closing', 'Max Price' : 'High', 'Min Price
 #print(df)
 df.to_json(outpath, indent=4,orient='records') #orient='records'
 
-if (a == 1) :
-    print('Data Updated')
-else :
-    print('Data Added')
