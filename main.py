@@ -1,12 +1,12 @@
 from distutils.log import error
 from flask import *
 import json, time
-import os, sys
+import os, sys, subprocess
 from jinja2 import environment, FileSystemLoader
 app = Flask(__name__)
 
 def read_nepse_data():
-    os.system("scrape.py")
+    os.system("python ./scrape.py")
     with open("data/data.json","r") as d:
         nepse = json.load(d)
         return nepse 
