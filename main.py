@@ -11,7 +11,6 @@ def read_nepse_data():
         nepse = json.load(d)
         return nepse 
 
-
 @app.route('/')
 def home_page():
     nepse = read_nepse_data()
