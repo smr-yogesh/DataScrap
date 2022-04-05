@@ -1,22 +1,22 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: datascrape
+  name: nepseapi
 spec:
-  replicas: 1
+  replicas: 3
   selector:
     matchLabels:
-      app: datascrape
+      app: nepseapi
   # matchExpressions:<This is another type of selector>
   #   - {key: app, oprator:In, values: [datascrape]}
   template:
     metadata:
       labels:
-        app: datascrape
+        app: nepseapi
     spec:
       containers:
-        - name: datascrape-py
-          image: lonewolfxx/datascrape-public:latest
+        - name: nepseapi-py
+          image: lonewolfxx/nepseapi-public:latest
           livenessProbe:
             httpGet:
               path: /
