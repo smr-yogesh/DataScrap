@@ -1,3 +1,4 @@
+from datetime import datetime
 from distutils.log import error
 from flask import *
 import json, time
@@ -14,12 +15,16 @@ def read_nepse_data():
 @app.route('/')
 def home_page():
     nepse = read_nepse_data()
-    return render_template('index.html',nepse = nepse)
+    return render_template('index.html', nepse = nepse, date = str(datetime.now().strftime("%Y-%m-%d %H:%M:%S")))
 
 @app.route('/api')
 def api():
     nepse = read_nepse_data()
     return jsonify(nepse)
+
+@app.route('/error')
+def error():
+    return os._exit(0)
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5000)

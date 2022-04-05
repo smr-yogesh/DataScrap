@@ -11,40 +11,47 @@
     <title>Live Nepse data</title>
   </head>
   <body>
-    <table class="table table-bordered" style="width:50%" align="center">
-      <thead>
-        <tr>
-          <th>Symbol</th>
-          <th>Closing</th>
-          <th>Change</th>
-          <th>High</th>
-          <th>Low</th>
-          <th>Open</th>
-        </tr>
-      </thead>
-      <tbody>
-        {%for data in nepse%}
-        {%if data.Change < 0%}
-          {% set a = '#AC2925'%}
-          {% set b ='#FFFFFF'%} 
-          {%elif data.Change > 0%} 
-          {% set a = '#398439'%}
-          {% set b ='#FFFFFF'%} 
-          {%else%} 
-          {% set a = ''%}
-          {% set b = '#000000'%}
-
-        {%endif%} 
-        <tr style="background-color: {{a}}; color:{{b}};">
-          <th>{{data.Symbols}}</th>
-          <th>{{data.Closing}}</th>
-          <th>{{data.Change}}%</th>
-          <th>{{data.High}}</th>
-          <th>{{data.Low}}</th>
-          <th>{{data.Open}}</th>
-        </tr>
-        {%endfor%}
-      </tbody>
-    </table>
+    <div class="column" style=" float: left; width: 10%; padding: 10px;">
+    <p> Last updated :</p>
+    <p> {{date}} </p>
+    <button onclick="location.reload();">Click here to refresh data</button>
+    </div>
+    <div class="column" style=" float: left; width: 90%; padding: 10px;">
+      <table class="table table-bordered" style="width:50%" align="center">
+        <thead>
+          <tr>
+            <th>Symbol</th>
+            <th>Closing</th>
+            <th>Change</th>
+            <th>High</th>
+            <th>Low</th>
+            <th>Open</th>
+          </tr>
+        </thead>
+        <tbody>
+          {%for data in nepse%}
+          {%if data.Change < 0%}
+            {% set a = '#AC2925'%}
+            {% set b ='#FFFFFF'%} 
+            {%elif data.Change > 0%} 
+            {% set a = '#398439'%}
+            {% set b ='#FFFFFF'%} 
+            {%else%} 
+            {% set a = ''%}
+            {% set b = '#000000'%}
+  
+          {%endif%} 
+          <tr style="background-color: {{a}}; color:{{b}};">
+            <th>{{data.Symbols}}</th>
+            <th>{{data.Closing}}</th>
+            <th>{{data.Change}}%</th>
+            <th>{{data.High}}</th>
+            <th>{{data.Low}}</th>
+            <th>{{data.Open}}</th>
+          </tr>
+          {%endfor%}
+        </tbody>
+      </table>
+    </div>
   </body>
 </html>
