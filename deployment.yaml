@@ -17,9 +17,21 @@ spec:
       containers:
         - name: nepseapi-py
           image: lonewolfxx/nepseapi-public:latest
+          volumeMounts:
+            - mountPath: /home/app/data
+              name: api-volume
           livenessProbe:
             httpGet:
               path: /
               port: 5000
             periodSeconds: 10
             initialDelaySeconds: 5
+            periodSeconds: 30
+            successThreshold: 1
+            timeoutSeconds: 10
+      volumes:
+        - name: api-volume
+          #emptyDir: {}
+          hostPath:
+            path: /check
+            type: DirectoryOrCreate
