@@ -32,6 +32,5 @@ spec:
       volumes:
         - name: api-volume
           #emptyDir: {}
-          hostPath:
-            path: /check
-            type: DirectoryOrCreate
+          persistentVolumeClaim:
+            claimName: host-pvc
