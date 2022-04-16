@@ -14,11 +14,5 @@ and again that json file can be used to make own api aswell. ANd this program re
 
 pip install -r requirements.txt
 
-<<<<<<< HEAD
-Run main.py and automate.py simultaneously in different terminal. Like below.
-
-
-[![two-apps-at-a-same-time.jpg](https://i.postimg.cc/m2n9mpT8/two-apps-at-a-same-time.jpg)](https://postimg.cc/LnzhXTY1)
-=======
 Run main.py
->>>>>>> e2fe2a08934f1e5b9cbdc7403bc8f5a0ded12034
+
