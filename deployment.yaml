@@ -17,6 +17,12 @@ spec:
       containers:
         - name: nepseapi-py
           image: lonewolfxx/nepseapi-public:latest
+          env:
+            - name: nepseapi_folder
+              valueFrom:
+                configMapKeyRef:
+                  name: data-store-env
+                  key: folder
           volumeMounts:
             - mountPath: /home/app/data
               name: api-volume
