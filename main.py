@@ -20,7 +20,7 @@ def home_page():
 @app.route('/api')
 def api():
     nepse = read_nepse_data()
-    return jsonify(nepse)
+    return jsonify(nepse) 
 
 @app.route('/error')
 def error():
