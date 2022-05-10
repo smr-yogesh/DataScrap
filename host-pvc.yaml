@@ -4,6 +4,7 @@ metadata:
   name: host-pvc
 spec:
   volumeName: host-pv
+  storageClassName: mannual
   accessModes:
     - ReadWriteOnce
   resources:

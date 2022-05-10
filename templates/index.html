@@ -34,14 +34,13 @@
           {%for data in nepse%}
           {%if data.Change < 0%}
             {% set a = '#AC2925'%}
-            {% set b ='#FFFFFF'%} 
+            {% set b ='#FFFFFF'%}
             {%elif data.Change > 0%} 
             {% set a = '#398439'%}
-            {% set b ='#FFFFFF'%} 
+            {% set b ='#FFFFFF'%}
             {%else%} 
             {% set a = ''%}
             {% set b = '#000000'%}
-  
           {%endif%} 
           <tr style="background-color: {{a}}; color:{{b}};">
             <th>{{data.Symbols}}</th>

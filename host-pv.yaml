@@ -6,7 +6,7 @@ spec:
   capacity: 
     storage: 1Gi
   volumeMode: Filesystem
-  storageClassName: standard
+  storageClassName: mannual
   accessModes:
     - ReadWriteOnce
   hostPath:
