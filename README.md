@@ -16,3 +16,5 @@ pip install -r requirements.txt
 
 Run main.py
 
+To run this app on cloud, get necessary yaml from https://github.com/smr-yogesh/kube-cloud.  
+
