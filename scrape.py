@@ -18,6 +18,12 @@ def scrape():
     #print(df)
     df.to_json(outpath, indent=4,orient='records') #orient='records'
 
+    #with open("data\data.json","r") as d:
+        #nepse = json.load(d)
+        #return nepse 
+
+def read_nepse_data():
+    scrape()
     with open("data\data.json","r") as d:
         nepse = json.load(d)
         return nepse 
