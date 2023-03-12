@@ -1,14 +1,11 @@
-FROM amancevice/pandas:1.4.2-alpine
+FROM python:3.9-slim-buster
 
+WORKDIR /app
 
-RUN mkdir -p /home/app/
-COPY . /home/app/
-RUN pip install flask
-RUN pip install sqlalchemy
-RUN pip install lxml
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+COPY . .
 
-EXPOSE 5000
-WORKDIR /home/app/
-ENTRYPOINT ["python"]
-RUN cd /home/app/
-CMD ["main.py"]
+EXPOSE 5050
+
+CMD ["python", "app.py" ]
