@@ -20,6 +20,7 @@ jobs:
     - name:  Push Docker image
       uses: mr-smithers-excellent/docker-build-push@v5
       with:
+        tags: latest
         image: lonewolfxx/datascrape
         registry: docker.io
         username: ${{ secrets.DOCKER_USERNAME }}
