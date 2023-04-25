@@ -2,7 +2,7 @@ from flask import request, jsonify, Blueprint, render_template
 from datetime import datetime, timedelta
 from auth import token_required
 from routes import app
-from scrape import read_nepse_data
+from engine import read_nepse_data
 import jwt
 
 B_api = Blueprint('B_api', __name__)
