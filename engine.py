@@ -25,7 +25,7 @@ def read_nepse_data():
         nepse = json.load(d)
         return nepse 
 
-conn = sqlite3.connect('test.db')
+conn = sqlite3.connect('data.db')
 date = datetime.datetime.now().strftime("%x")
 table_name = f"T_{date.replace('/', '_')}"
 
