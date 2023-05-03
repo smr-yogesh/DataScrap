@@ -34,6 +34,7 @@ def set_database():
     c.execute(f"CREATE TABLE IF NOT EXISTS {table_name} (symbols text, Closing number, Change number, High number, Low number, Open number)")
     conn.commit()
 
+#below this is experimental and contains heavy bugs and unnecessary code.
 def data_to_database():
     while true:
         set_database()
