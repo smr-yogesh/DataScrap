@@ -1,7 +1,7 @@
+beautifulsoup4==4.12.2
 Flask==2.2.2
-pandas==1.4.1
+pandas==2.0.0
 PyJWT==2.6.0
-SQLAlchemy==1.4.31
-lxml==4.8.0
-JWT
-pyppeteer
+PyJWT==2.6.0
+selenium==4.9.1
+SQLAlchemy==2.0.8
