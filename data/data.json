@@ -1,2114 +1,2972 @@
 [
     {
-        "Symbols":"ACLBSL",
-        "Closing":571.0,
-        "Change":-0.7,
-        "High":586.0,
-        "Low":570.0,
-        "Open":575.0
-    },
-    {
-        "Symbols":"ADBL",
-        "Closing":237.4,
-        "Change":1.45,
-        "High":238.0,
-        "Low":233.1,
-        "Open":235.0
-    },
-    {
-        "Symbols":"ADLB",
-        "Closing":1397.0,
-        "Change":2.72,
-        "High":1397.0,
-        "Low":1333.0,
-        "Open":1340.0
-    },
-    {
-        "Symbols":"AHL",
-        "Closing":379.0,
-        "Change":0.26,
-        "High":382.0,
-        "Low":360.9,
-        "Open":370.6
-    },
-    {
-        "Symbols":"AHPC",
-        "Closing":297.0,
-        "Change":1.02,
-        "High":300.0,
-        "Low":293.3,
-        "Open":299.0
-    },
-    {
-        "Symbols":"AIL",
-        "Closing":415.0,
-        "Change":1.72,
-        "High":415.9,
-        "Low":405.0,
-        "Open":410.0
-    },
-    {
-        "Symbols":"AKJCL",
-        "Closing":234.0,
-        "Change":1.78,
-        "High":236.0,
-        "Low":228.0,
-        "Open":229.9
-    },
-    {
-        "Symbols":"AKPL",
-        "Closing":389.0,
-        "Change":-0.26,
-        "High":395.4,
-        "Low":383.1,
-        "Open":384.0
-    },
-    {
-        "Symbols":"ALBSL",
-        "Closing":713.0,
-        "Change":0.42,
-        "High":713.0,
-        "Low":694.0,
-        "Open":696.0
-    },
-    {
-        "Symbols":"ALICL",
-        "Closing":570.0,
-        "Change":0.53,
-        "High":572.0,
-        "Low":560.1,
-        "Open":560.1
-    },
-    {
-        "Symbols":"API",
-        "Closing":248.0,
-        "Change":0.81,
-        "High":251.5,
-        "Low":246.4,
-        "Open":249.0
-    },
-    {
-        "Symbols":"AVYAN",
-        "Closing":600.0,
-        "Change":0.84,
-        "High":606.0,
-        "Low":585.0,
-        "Open":585.0
-    },
-    {
-        "Symbols":"BARUN",
-        "Closing":253.0,
-        "Change":1.61,
-        "High":263.1,
-        "Low":249.5,
-        "Open":253.0
-    },
-    {
-        "Symbols":"BBC",
-        "Closing":3120.0,
-        "Change":0.29,
-        "High":3131.0,
-        "Low":3105.0,
-        "Open":3110.0
-    },
-    {
-        "Symbols":"BFC",
-        "Closing":313.0,
-        "Change":1.62,
-        "High":313.0,
-        "Low":308.0,
-        "Open":308.0
-    },
-    {
-        "Symbols":"BHDC",
-        "Closing":417.0,
-        "Change":0.46,
-        "High":417.2,
-        "Low":407.1,
-        "Open":407.1
-    },
-    {
-        "Symbols":"BHL",
-        "Closing":315.0,
-        "Change":-2.78,
-        "High":318.3,
-        "Low":301.6,
-        "Open":318.3
-    },
-    {
-        "Symbols":"BHPL",
-        "Closing":481.9,
-        "Change":3.86,
-        "High":482.5,
-        "Low":456.2,
-        "Open":456.2
-    },
-    {
-        "Symbols":"BNHC",
-        "Closing":385.0,
-        "Change":0.0,
-        "High":388.9,
-        "Low":377.3,
-        "Open":386.5
-    },
-    {
-        "Symbols":"BPCL",
-        "Closing":313.0,
-        "Change":1.16,
-        "High":316.0,
-        "Low":309.4,
-        "Open":309.4
-    },
-    {
-        "Symbols":"CBBL",
-        "Closing":797.0,
-        "Change":-0.25,
-        "High":809.0,
-        "Low":792.2,
-        "Open":800.0
-    },
-    {
-        "Symbols":"CFCL",
-        "Closing":307.0,
-        "Change":2.68,
-        "High":307.0,
-        "Low":295.1,
-        "Open":304.8
-    },
-    {
-        "Symbols":"CGH",
-        "Closing":1120.0,
-        "Change":-0.27,
-        "High":1127.0,
-        "Low":1111.0,
-        "Open":1111.0
-    },
-    {
-        "Symbols":"CHCL",
-        "Closing":479.0,
-        "Change":0.21,
-        "High":479.9,
-        "Low":472.1,
-        "Open":472.1
-    },
-    {
-        "Symbols":"CHDC",
-        "Closing":720.0,
-        "Change":0.57,
-        "High":730.0,
-        "Low":715.1,
-        "Open":729.0
-    },
-    {
-        "Symbols":"CHL",
-        "Closing":310.0,
-        "Change":1.97,
-        "High":311.0,
-        "Low":301.1,
-        "Open":301.1
-    },
-    {
-        "Symbols":"CIT",
-        "Closing":2037.0,
-        "Change":1.52,
-        "High":2045.0,
-        "Low":2008.0,
-        "Open":2009.0
-    },
-    {
-        "Symbols":"CLBSL",
-        "Closing":599.0,
-        "Change":0.67,
-        "High":599.0,
-        "Low":595.0,
-        "Open":595.0
-    },
-    {
-        "Symbols":"CMF1",
-        "Closing":8.2,
-        "Change":5.13,
-        "High":8.26,
-        "Low":7.95,
-        "Open":7.95
-    },
-    {
-        "Symbols":"CMF2",
-        "Closing":7.21,
-        "Change":-3.61,
-        "High":7.34,
-        "Low":7.21,
-        "Open":7.34
-    },
-    {
-        "Symbols":"CORBL",
-        "Closing":295.0,
-        "Change":0.31,
-        "High":305.0,
-        "Low":295.0,
-        "Open":299.9
-    },
-    {
-        "Symbols":"CZBIL",
-        "Closing":175.0,
-        "Change":0.57,
-        "High":176.0,
-        "Low":172.6,
-        "Open":174.0
-    },
-    {
-        "Symbols":"DDBL",
-        "Closing":662.7,
-        "Change":0.94,
-        "High":663.0,
-        "Low":656.6,
-        "Open":657.0
-    },
-    {
-        "Symbols":"DHPL",
-        "Closing":217.9,
-        "Change":2.78,
-        "High":217.9,
-        "Low":210.0,
-        "Open":210.0
-    },
-    {
-        "Symbols":"DLBS",
-        "Closing":791.3,
-        "Change":-3.5,
-        "High":870.1,
-        "Low":791.3,
-        "Open":836.4
-    },
-    {
-        "Symbols":"DORDI",
-        "Closing":290.0,
-        "Change":0.69,
-        "High":290.7,
-        "Low":282.4,
-        "Open":282.4
-    },
-    {
-        "Symbols":"EBL",
-        "Closing":528.0,
-        "Change":1.15,
-        "High":530.0,
-        "Low":511.6,
-        "Open":511.6
-    },
-    {
-        "Symbols":"EBLD86",
-        "Closing":782.0,
-        "Change":-0.01,
-        "High":782.0,
-        "Low":782.0,
-        "Open":782.0
-    },
-    {
-        "Symbols":"EDBL",
-        "Closing":286.7,
-        "Change":1.77,
-        "High":286.7,
-        "Low":277.4,
-        "Open":281.7
-    },
-    {
-        "Symbols":"EHPL",
-        "Closing":390.0,
-        "Change":-0.64,
-        "High":390.0,
-        "Low":379.1,
-        "Open":390.0
-    },
-    {
-        "Symbols":"ENL",
-        "Closing":645.6,
-        "Change":2.28,
-        "High":645.6,
-        "Low":625.0,
-        "Open":625.0
-    },
-    {
-        "Symbols":"FMDBL",
-        "Closing":527.6,
-        "Change":1.07,
-        "High":527.6,
-        "Low":515.5,
-        "Open":516.0
-    },
-    {
-        "Symbols":"FOWAD",
-        "Closing":1228.0,
-        "Change":1.91,
-        "High":1246.0,
-        "Low":1200.0,
-        "Open":1224.9
-    },
-    {
-        "Symbols":"GBBD85",
-        "Closing":784.2,
-        "Change":-1.99,
-        "High":784.2,
-        "Low":784.2,
-        "Open":784.2
-    },
-    {
-        "Symbols":"GBBL",
-        "Closing":367.0,
-        "Change":2.37,
-        "High":367.0,
-        "Low":352.2,
-        "Open":352.2
-    },
-    {
-        "Symbols":"GBILD86\/87",
-        "Closing":760.0,
-        "Change":-1.69,
-        "High":773.1,
-        "Low":760.0,
-        "Open":773.1
-    },
-    {
-        "Symbols":"GBIME",
-        "Closing":190.4,
-        "Change":0.74,
-        "High":190.7,
-        "Low":186.9,
-        "Open":189.0
-    },
-    {
-        "Symbols":"GBLBS",
-        "Closing":445.1,
-        "Change":-1.74,
-        "High":454.0,
-        "Low":444.6,
-        "Open":450.1
-    },
-    {
-        "Symbols":"GFCL",
-        "Closing":433.0,
-        "Change":1.38,
-        "High":433.0,
-        "Low":422.3,
-        "Open":425.0
-    },
-    {
-        "Symbols":"GHL",
-        "Closing":261.0,
-        "Change":1.6,
-        "High":262.0,
-        "Low":255.0,
-        "Open":260.0
-    },
-    {
-        "Symbols":"GIBF1",
-        "Closing":8.07,
-        "Change":0.37,
-        "High":8.18,
-        "Low":8.0,
-        "Open":8.0
-    },
-    {
-        "Symbols":"GILB",
-        "Closing":799.0,
-        "Change":-1.09,
-        "High":800.0,
-        "Low":791.7,
-        "Open":800.0
-    },
-    {
-        "Symbols":"GLH",
-        "Closing":276.0,
-        "Change":0.0,
-        "High":280.0,
-        "Low":271.2,
-        "Open":271.2
-    },
-    {
-        "Symbols":"GLICL",
-        "Closing":367.0,
-        "Change":1.86,
-        "High":370.0,
-        "Low":361.5,
-        "Open":364.0
-    },
-    {
-        "Symbols":"GMFBS",
-        "Closing":716.0,
-        "Change":-1.92,
-        "High":716.0,
-        "Low":716.0,
-        "Open":716.0
-    },
-    {
-        "Symbols":"GMFIL",
-        "Closing":310.8,
-        "Change":1.9,
-        "High":311.1,
-        "Low":307.0,
-        "Open":311.0
-    },
-    {
-        "Symbols":"GRDBL",
-        "Closing":258.0,
-        "Change":0.78,
-        "High":260.0,
-        "Low":253.0,
-        "Open":260.0
-    },
-    {
-        "Symbols":"GUFL",
-        "Closing":493.9,
-        "Change":1.38,
-        "High":498.0,
-        "Low":480.0,
-        "Open":480.0
-    },
-    {
-        "Symbols":"GVL",
-        "Closing":402.0,
-        "Change":0.0,
-        "High":410.0,
-        "Low":394.1,
-        "Open":394.1
-    },
-    {
-        "Symbols":"GWFD83",
-        "Closing":1031.2,
-        "Change":2.0,
-        "High":1031.2,
-        "Low":1031.2,
-        "Open":1031.2
-    },
-    {
-        "Symbols":"HBL",
-        "Closing":222.0,
-        "Change":0.05,
-        "High":225.0,
-        "Low":220.9,
-        "Open":225.0
-    },
-    {
-        "Symbols":"HDHPC",
-        "Closing":215.0,
-        "Change":0.94,
-        "High":219.0,
-        "Low":214.0,
-        "Open":216.0
-    },
-    {
-        "Symbols":"HDL",
-        "Closing":1933.0,
-        "Change":1.26,
-        "High":1945.0,
-        "Low":1900.0,
-        "Open":1900.0
-    },
-    {
-        "Symbols":"HEI",
-        "Closing":446.0,
-        "Change":1.16,
-        "High":450.0,
-        "Low":438.1,
-        "Open":445.0
-    },
-    {
-        "Symbols":"HHL",
-        "Closing":276.5,
-        "Change":1.43,
-        "High":276.5,
-        "Low":268.0,
-        "Open":268.0
-    },
-    {
-        "Symbols":"HIDCL",
-        "Closing":190.7,
-        "Change":2.36,
-        "High":190.8,
-        "Low":185.0,
-        "Open":185.0
-    },
-    {
-        "Symbols":"HIDCLP",
-        "Closing":100.3,
-        "Change":0.4,
-        "High":101.8,
-        "Low":98.0,
-        "Open":101.8
-    },
-    {
-        "Symbols":"HPPL",
-        "Closing":285.5,
-        "Change":2.88,
-        "High":288.5,
-        "Low":276.0,
-        "Open":276.0
-    },
-    {
-        "Symbols":"HURJA",
-        "Closing":300.0,
-        "Change":1.18,
-        "High":300.8,
-        "Low":295.0,
-        "Open":300.0
-    },
-    {
-        "Symbols":"ICFC",
-        "Closing":420.0,
-        "Change":1.25,
-        "High":420.0,
-        "Low":410.0,
-        "Open":411.0
-    },
-    {
-        "Symbols":"ICFCD83",
-        "Closing":1069.5,
-        "Change":-0.05,
-        "High":1069.5,
-        "Low":1048.6,
-        "Open":1048.7
-    },
-    {
-        "Symbols":"IGI",
-        "Closing":388.1,
-        "Change":1.68,
-        "High":390.0,
-        "Low":382.0,
-        "Open":383.0
-    },
-    {
-        "Symbols":"ILBS",
-        "Closing":625.8,
-        "Change":-1.14,
-        "High":633.0,
-        "Low":613.1,
-        "Open":633.0
-    },
-    {
-        "Symbols":"JALPA",
-        "Closing":1735.0,
-        "Change":2.06,
-        "High":1735.0,
-        "Low":1700.0,
-        "Open":1700.0
-    },
-    {
-        "Symbols":"JBBL",
-        "Closing":263.1,
-        "Change":0.42,
-        "High":264.8,
-        "Low":259.1,
-        "Open":264.0
-    },
-    {
-        "Symbols":"JBLB",
-        "Closing":1450.0,
-        "Change":1.61,
-        "High":1450.0,
-        "Low":1420.1,
-        "Open":1427.0
-    },
-    {
-        "Symbols":"JFL",
-        "Closing":362.1,
-        "Change":0.58,
-        "High":365.0,
-        "Low":355.1,
-        "Open":355.1
-    },
-    {
-        "Symbols":"JOSHI",
-        "Closing":278.0,
-        "Change":1.09,
-        "High":280.0,
-        "Low":264.2,
-        "Open":269.5
-    },
-    {
-        "Symbols":"JSLBB",
-        "Closing":892.0,
-        "Change":-3.08,
-        "High":938.5,
-        "Low":892.0,
-        "Open":938.5
-    },
-    {
-        "Symbols":"KBL",
-        "Closing":170.0,
-        "Change":0.59,
-        "High":170.9,
-        "Low":168.1,
-        "Open":170.0
-    },
-    {
-        "Symbols":"KDBY",
-        "Closing":8.48,
-        "Change":3.79,
-        "High":8.48,
-        "Low":8.01,
-        "Open":8.01
-    },
-    {
-        "Symbols":"KDL",
-        "Closing":788.0,
-        "Change":-1.87,
-        "High":803.0,
-        "Low":760.0,
-        "Open":787.0
-    },
-    {
-        "Symbols":"KEF",
-        "Closing":7.98,
-        "Change":-0.37,
-        "High":8.0,
-        "Low":7.68,
-        "Open":7.85
-    },
-    {
-        "Symbols":"KKHC",
-        "Closing":234.6,
-        "Change":2.0,
-        "High":234.6,
-        "Low":230.0,
-        "Open":230.0
-    },
-    {
-        "Symbols":"KLBS",
-        "Closing":927.5,
-        "Change":7.85,
-        "High":927.5,
-        "Low":877.0,
-        "Open":877.0
-    },
-    {
-        "Symbols":"KLBSL",
-        "Closing":615.0,
-        "Change":0.47,
-        "High":623.9,
-        "Low":612.0,
-        "Open":623.9
-    },
-    {
-        "Symbols":"KMCDB",
-        "Closing":591.0,
-        "Change":-0.34,
-        "High":593.0,
-        "Low":580.0,
-        "Open":593.0
-    },
-    {
-        "Symbols":"KPCL",
-        "Closing":378.0,
-        "Change":-0.79,
-        "High":379.9,
-        "Low":373.4,
-        "Open":375.0
-    },
-    {
-        "Symbols":"KRBL",
-        "Closing":264.0,
-        "Change":3.12,
-        "High":266.0,
-        "Low":259.0,
-        "Open":259.0
-    },
-    {
-        "Symbols":"KSBBL",
-        "Closing":306.0,
-        "Change":1.66,
-        "High":308.0,
-        "Low":298.0,
-        "Open":301.1
-    },
-    {
-        "Symbols":"LBBL",
-        "Closing":334.0,
-        "Change":1.83,
-        "High":335.0,
-        "Low":326.8,
-        "Open":328.0
-    },
-    {
-        "Symbols":"LBL",
-        "Closing":188.0,
-        "Change":0.53,
-        "High":190.0,
-        "Low":187.0,
-        "Open":187.0
-    },
-    {
-        "Symbols":"LBLD88",
-        "Closing":758.7,
-        "Change":-1.81,
-        "High":758.7,
-        "Low":758.7,
-        "Open":758.7
-    },
-    {
-        "Symbols":"LEC",
-        "Closing":260.0,
-        "Change":-1.1,
-        "High":264.9,
-        "Low":254.3,
-        "Open":258.3
-    },
-    {
-        "Symbols":"LICN",
-        "Closing":1297.0,
-        "Change":-0.06,
-        "High":1300.0,
-        "Low":1280.0,
-        "Open":1283.0
-    },
-    {
-        "Symbols":"LLBS",
-        "Closing":687.5,
-        "Change":0.53,
-        "High":697.5,
-        "Low":670.5,
-        "Open":671.2
-    },
-    {
-        "Symbols":"LUK",
-        "Closing":8.17,
-        "Change":2.0,
-        "High":8.17,
-        "Low":7.97,
-        "Open":8.1
-    },
-    {
-        "Symbols":"MBJC",
-        "Closing":305.0,
-        "Change":-0.33,
-        "High":308.0,
-        "Low":300.0,
-        "Open":300.0
-    },
-    {
-        "Symbols":"MBL",
-        "Closing":229.0,
-        "Change":4.09,
-        "High":229.7,
-        "Low":220.0,
-        "Open":220.0
-    },
-    {
-        "Symbols":"MDB",
-        "Closing":367.0,
-        "Change":0.52,
-        "High":370.0,
-        "Low":365.0,
-        "Open":370.0
-    },
-    {
-        "Symbols":"MEN",
-        "Closing":769.0,
-        "Change":-0.76,
-        "High":774.6,
-        "Low":759.5,
-        "Open":759.5
-    },
-    {
-        "Symbols":"MERO",
-        "Closing":548.8,
-        "Change":1.63,
-        "High":549.0,
-        "Low":532.2,
-        "Open":543.0
-    },
-    {
-        "Symbols":"MFIL",
-        "Closing":439.0,
-        "Change":1.86,
-        "High":443.0,
-        "Low":433.0,
-        "Open":435.0
-    },
-    {
-        "Symbols":"MHCL",
-        "Closing":246.0,
-        "Change":2.93,
-        "High":251.7,
-        "Low":235.0,
-        "Open":235.0
-    },
-    {
-        "Symbols":"MHL",
-        "Closing":367.0,
-        "Change":-2.11,
-        "High":368.0,
-        "Low":360.6,
-        "Open":367.5
-    },
-    {
-        "Symbols":"MHNL",
-        "Closing":289.9,
-        "Change":2.44,
-        "High":291.0,
-        "Low":280.1,
-        "Open":280.1
-    },
-    {
-        "Symbols":"MKHC",
-        "Closing":279.0,
-        "Change":1.34,
-        "High":280.5,
-        "Low":270.0,
-        "Open":270.1
-    },
-    {
-        "Symbols":"MKJC",
-        "Closing":406.7,
-        "Change":-0.32,
-        "High":415.0,
-        "Low":406.7,
-        "Open":414.0
-    },
-    {
-        "Symbols":"MKLB",
-        "Closing":642.0,
-        "Change":3.55,
-        "High":642.0,
-        "Low":611.0,
-        "Open":611.0
-    },
-    {
-        "Symbols":"MLBBL",
-        "Closing":724.0,
-        "Change":1.44,
-        "High":727.0,
-        "Low":715.0,
-        "Open":727.0
-    },
-    {
-        "Symbols":"MLBL",
-        "Closing":303.0,
-        "Change":2.02,
-        "High":303.9,
-        "Low":296.0,
-        "Open":302.0
-    },
-    {
-        "Symbols":"MLBSL",
-        "Closing":1860.0,
-        "Change":0.27,
-        "High":1860.0,
-        "Low":1832.0,
-        "Open":1860.0
-    },
-    {
-        "Symbols":"MMF1",
-        "Closing":7.27,
-        "Change":1.82,
-        "High":7.27,
-        "Low":6.98,
-        "Open":7.0
-    },
-    {
-        "Symbols":"MMFDB",
-        "Closing":588.0,
-        "Change":-1.51,
-        "High":599.8,
-        "Low":585.1,
-        "Open":592.0
-    },
-    {
-        "Symbols":"MNBBL",
-        "Closing":397.0,
-        "Change":1.28,
-        "High":397.0,
-        "Low":386.3,
-        "Open":386.3
-    },
-    {
-        "Symbols":"MNBBLP",
-        "Closing":237.0,
-        "Change":0.0,
-        "High":237.0,
-        "Low":237.0,
-        "Open":237.0
-    },
-    {
-        "Symbols":"MPFL",
-        "Closing":322.4,
-        "Change":-0.56,
-        "High":328.9,
-        "Low":317.0,
-        "Open":317.8
-    },
-    {
-        "Symbols":"MSLB",
-        "Closing":710.9,
-        "Change":2.27,
-        "High":710.9,
-        "Low":692.0,
-        "Open":697.0
-    },
-    {
-        "Symbols":"NABBC",
-        "Closing":394.8,
-        "Change":1.86,
-        "High":394.8,
-        "Low":388.0,
-        "Open":388.0
-    },
-    {
-        "Symbols":"NABIL",
-        "Closing":605.5,
-        "Change":0.08,
-        "High":607.0,
-        "Low":600.0,
-        "Open":606.0
-    },
-    {
-        "Symbols":"NADEP",
-        "Closing":542.0,
-        "Change":0.58,
-        "High":549.6,
-        "Low":518.0,
-        "Open":549.6
-    },
-    {
-        "Symbols":"NBF3",
-        "Closing":7.27,
-        "Change":0.55,
-        "High":7.38,
-        "Low":7.12,
-        "Open":7.15
-    },
-    {
-        "Symbols":"NBL",
-        "Closing":252.1,
-        "Change":0.44,
-        "High":255.0,
-        "Low":250.5,
-        "Open":251.0
-    },
-    {
-        "Symbols":"NBLD82",
-        "Closing":978.0,
-        "Change":1.66,
-        "High":978.0,
-        "Low":978.0,
-        "Open":978.0
-    },
-    {
-        "Symbols":"NBLD87",
-        "Closing":770.1,
-        "Change":-0.63,
-        "High":775.0,
-        "Low":770.1,
-        "Open":775.0
-    },
-    {
-        "Symbols":"NEF",
-        "Closing":8.58,
-        "Change":-1.94,
-        "High":8.58,
-        "Low":8.58,
-        "Open":8.58
-    },
-    {
-        "Symbols":"NESDO",
-        "Closing":2068.0,
-        "Change":0.1,
-        "High":2097.0,
-        "Low":2050.0,
-        "Open":2097.0
-    },
-    {
-        "Symbols":"NFS",
-        "Closing":284.0,
-        "Change":0.35,
-        "High":287.0,
-        "Low":280.0,
-        "Open":285.0
-    },
-    {
-        "Symbols":"NGPL",
-        "Closing":263.0,
-        "Change":0.5,
-        "High":272.2,
-        "Low":258.2,
-        "Open":262.0
-    },
-    {
-        "Symbols":"NHDL",
-        "Closing":387.0,
-        "Change":0.78,
-        "High":393.0,
-        "Low":383.7,
-        "Open":391.0
-    },
-    {
-        "Symbols":"NHPC",
-        "Closing":230.8,
-        "Change":1.5,
-        "High":233.5,
-        "Low":228.3,
-        "Open":229.0
-    },
-    {
-        "Symbols":"NIBD84",
-        "Closing":827.0,
-        "Change":0.24,
-        "High":827.0,
-        "Low":827.0,
-        "Open":827.0
-    },
-    {
-        "Symbols":"NIBLPF",
-        "Closing":8.8,
-        "Change":-1.9,
-        "High":8.97,
-        "Low":8.8,
-        "Open":8.97
-    },
-    {
-        "Symbols":"NIBSF2",
-        "Closing":7.3,
-        "Change":0.14,
-        "High":7.31,
-        "Low":7.3,
-        "Open":7.31
-    },
-    {
-        "Symbols":"NICA",
-        "Closing":735.0,
-        "Change":2.51,
-        "High":735.0,
-        "Low":718.0,
-        "Open":724.9
-    },
-    {
-        "Symbols":"NICBF",
-        "Closing":8.74,
-        "Change":2.94,
-        "High":8.74,
-        "Low":8.4,
-        "Open":8.4
-    },
-    {
-        "Symbols":"NICFC",
-        "Closing":7.74,
-        "Change":0.39,
-        "High":7.86,
-        "Low":7.57,
-        "Open":7.57
-    },
-    {
-        "Symbols":"NICGF",
-        "Closing":8.9,
-        "Change":0.11,
-        "High":8.9,
-        "Low":8.73,
-        "Open":8.73
-    },
-    {
-        "Symbols":"NICL",
-        "Closing":525.0,
-        "Change":0.57,
-        "High":530.0,
-        "Low":520.5,
-        "Open":520.5
-    },
-    {
-        "Symbols":"NICLBSL",
-        "Closing":557.0,
-        "Change":-0.89,
-        "High":570.0,
-        "Low":555.0,
-        "Open":556.0
-    },
-    {
-        "Symbols":"NICSF",
-        "Closing":7.82,
-        "Change":-0.51,
-        "High":7.82,
-        "Low":7.71,
-        "Open":7.71
-    },
-    {
-        "Symbols":"NIFRA",
-        "Closing":215.2,
-        "Change":0.51,
-        "High":219.3,
-        "Low":212.0,
-        "Open":216.0
-    },
-    {
-        "Symbols":"NIL",
-        "Closing":745.0,
-        "Change":0.11,
-        "High":751.2,
-        "Low":744.2,
-        "Open":749.5
-    },
-    {
-        "Symbols":"NIMB",
-        "Closing":183.8,
-        "Change":0.71,
-        "High":184.7,
-        "Low":180.2,
-        "Open":180.2
-    },
-    {
-        "Symbols":"NIMBPO",
-        "Closing":168.1,
-        "Change":-1.87,
-        "High":171.3,
-        "Low":167.9,
-        "Open":167.9
-    },
-    {
-        "Symbols":"NLBBL",
-        "Closing":601.0,
-        "Change":1.18,
-        "High":601.0,
-        "Low":578.2,
-        "Open":601.0
-    },
-    {
-        "Symbols":"NLG",
-        "Closing":615.0,
-        "Change":0.82,
-        "High":619.0,
-        "Low":610.0,
-        "Open":619.0
-    },
-    {
-        "Symbols":"NLIC",
-        "Closing":665.9,
-        "Change":0.89,
-        "High":670.0,
-        "Low":651.1,
-        "Open":660.0
-    },
-    {
-        "Symbols":"NLICL",
-        "Closing":585.0,
-        "Change":0.86,
-        "High":589.0,
-        "Low":572.1,
-        "Open":572.1
-    },
-    {
-        "Symbols":"NMB",
-        "Closing":239.0,
-        "Change":1.7,
-        "High":239.0,
-        "Low":233.1,
-        "Open":237.0
-    },
-    {
-        "Symbols":"NMB50",
-        "Closing":9.08,
-        "Change":2.6,
-        "High":9.08,
-        "Low":8.68,
-        "Open":8.68
-    },
-    {
-        "Symbols":"NMBHF1",
-        "Closing":9.93,
-        "Change":-0.1,
-        "High":9.94,
-        "Low":9.78,
-        "Open":9.94
-    },
-    {
-        "Symbols":"NMBMF",
-        "Closing":510.0,
-        "Change":0.79,
-        "High":511.4,
-        "Low":504.1,
-        "Open":505.8
-    },
-    {
-        "Symbols":"NMBPO",
-        "Closing":131.4,
-        "Change":0.0,
-        "High":131.4,
-        "Low":131.4,
-        "Open":131.4
-    },
-    {
-        "Symbols":"NMFBS",
-        "Closing":1210.0,
-        "Change":0.0,
-        "High":1224.0,
-        "Low":1200.0,
-        "Open":1200.0
-    },
-    {
-        "Symbols":"NRIC",
-        "Closing":728.0,
-        "Change":0.41,
-        "High":733.0,
-        "Low":718.0,
-        "Open":733.0
-    },
-    {
-        "Symbols":"NRN",
-        "Closing":457.5,
-        "Change":0.79,
-        "High":462.9,
-        "Low":442.1,
-        "Open":444.9
-    },
-    {
-        "Symbols":"NSIF2",
-        "Closing":7.84,
-        "Change":2.35,
-        "High":7.95,
-        "Low":7.7,
-        "Open":7.7
-    },
-    {
-        "Symbols":"NSLB",
-        "Closing":596.0,
-        "Change":0.0,
-        "High":596.0,
-        "Low":596.0,
-        "Open":596.0
-    },
-    {
-        "Symbols":"NTC",
-        "Closing":814.0,
-        "Change":0.52,
-        "High":814.9,
-        "Low":808.0,
-        "Open":808.0
-    },
-    {
-        "Symbols":"NUBL",
-        "Closing":595.0,
-        "Change":0.85,
-        "High":601.0,
-        "Low":580.5,
-        "Open":601.0
-    },
-    {
-        "Symbols":"NYADI",
-        "Closing":297.8,
-        "Change":-0.73,
-        "High":303.9,
-        "Low":296.0,
-        "Open":297.0
-    },
-    {
-        "Symbols":"OHL",
-        "Closing":562.0,
-        "Change":1.44,
-        "High":565.7,
-        "Low":554.0,
-        "Open":554.0
-    },
-    {
-        "Symbols":"PBD85",
-        "Closing":790.5,
-        "Change":2.0,
-        "High":790.5,
-        "Low":790.5,
-        "Open":790.5
-    },
-    {
-        "Symbols":"PBD88",
-        "Closing":847.8,
-        "Change":-1.99,
-        "High":847.8,
-        "Low":847.8,
-        "Open":847.8
-    },
-    {
-        "Symbols":"PCBL",
-        "Closing":200.0,
-        "Change":1.63,
-        "High":200.0,
-        "Low":195.0,
-        "Open":198.0
-    },
-    {
-        "Symbols":"PFL",
-        "Closing":354.0,
-        "Change":1.43,
-        "High":355.9,
-        "Low":349.0,
-        "Open":349.0
-    },
-    {
-        "Symbols":"PHCL",
-        "Closing":326.0,
-        "Change":0.93,
-        "High":340.0,
-        "Low":316.7,
-        "Open":316.7
-    },
-    {
-        "Symbols":"PICL",
-        "Closing":390.0,
-        "Change":0.96,
-        "High":390.9,
-        "Low":385.0,
-        "Open":390.9
-    },
-    {
-        "Symbols":"PLI",
-        "Closing":406.9,
-        "Change":0.72,
-        "High":408.0,
-        "Low":396.0,
-        "Open":396.0
-    },
-    {
-        "Symbols":"PLIC",
-        "Closing":374.0,
-        "Change":0.54,
-        "High":378.0,
-        "Low":373.0,
-        "Open":374.3
-    },
-    {
-        "Symbols":"PMHPL",
-        "Closing":238.0,
-        "Change":0.93,
-        "High":239.0,
-        "Low":231.2,
-        "Open":236.0
-    },
-    {
-        "Symbols":"PPCL",
-        "Closing":345.0,
-        "Change":0.15,
-        "High":350.0,
-        "Low":339.0,
-        "Open":350.0
-    },
-    {
-        "Symbols":"PPL",
-        "Closing":286.0,
-        "Change":-4.67,
-        "High":294.0,
-        "Low":276.9,
-        "Open":294.0
-    },
-    {
-        "Symbols":"PRIN",
-        "Closing":465.0,
-        "Change":2.2,
-        "High":468.0,
-        "Low":448.5,
-        "Open":452.5
-    },
-    {
-        "Symbols":"PROFL",
-        "Closing":303.0,
-        "Change":1.0,
-        "High":305.5,
-        "Low":296.5,
-        "Open":300.0
-    },
-    {
-        "Symbols":"PRVU",
-        "Closing":172.0,
-        "Change":1.18,
-        "High":173.0,
-        "Low":169.8,
-        "Open":170.0
-    },
-    {
-        "Symbols":"PSF",
-        "Closing":8.17,
-        "Change":-0.37,
-        "High":8.19,
-        "Low":7.96,
-        "Open":8.04
-    },
-    {
-        "Symbols":"RADHI",
-        "Closing":255.0,
-        "Change":0.79,
-        "High":258.0,
-        "Low":248.1,
-        "Open":248.1
-    },
-    {
-        "Symbols":"RBCL",
-        "Closing":12500.0,
-        "Change":1.35,
-        "High":12560.0,
-        "Low":12277.0,
-        "Open":12300.0
-    },
-    {
-        "Symbols":"RBCLPO",
-        "Closing":10500.0,
-        "Change":-0.9,
-        "High":10500.0,
-        "Low":10500.0,
-        "Open":10500.0
-    },
-    {
-        "Symbols":"RFPL",
-        "Closing":272.0,
-        "Change":1.91,
-        "High":282.0,
-        "Low":261.0,
-        "Open":266.0
-    },
-    {
-        "Symbols":"RHGCL",
-        "Closing":295.5,
-        "Change":2.93,
-        "High":295.5,
-        "Low":278.1,
-        "Open":281.5
-    },
-    {
-        "Symbols":"RHPL",
-        "Closing":300.0,
-        "Change":1.01,
-        "High":301.6,
-        "Low":292.0,
-        "Open":292.0
-    },
-    {
-        "Symbols":"RIDI",
-        "Closing":305.0,
-        "Change":0.33,
-        "High":307.8,
-        "Low":301.0,
-        "Open":304.0
-    },
-    {
-        "Symbols":"RLFL",
-        "Closing":298.0,
-        "Change":0.68,
-        "High":307.0,
-        "Low":297.0,
-        "Open":297.0
-    },
-    {
-        "Symbols":"RMDC",
-        "Closing":683.2,
-        "Change":0.03,
-        "High":696.0,
-        "Low":683.2,
-        "Open":696.0
-    },
-    {
-        "Symbols":"RMF1",
-        "Closing":7.26,
-        "Change":0.41,
-        "High":7.37,
-        "Low":7.23,
-        "Open":7.23
-    },
-    {
-        "Symbols":"RSDC",
-        "Closing":495.0,
-        "Change":1.02,
-        "High":499.7,
-        "Low":490.0,
-        "Open":490.0
-    },
-    {
-        "Symbols":"RULB",
-        "Closing":640.0,
-        "Change":-0.78,
-        "High":645.0,
-        "Low":633.0,
-        "Open":633.0
-    },
-    {
-        "Symbols":"RURU",
-        "Closing":739.0,
-        "Change":0.54,
-        "High":750.0,
-        "Low":738.0,
-        "Open":749.7
-    },
-    {
-        "Symbols":"SABSL",
-        "Closing":651.9,
-        "Change":2.82,
-        "High":651.9,
-        "Low":602.5,
-        "Open":640.0
-    },
-    {
-        "Symbols":"SADBL",
-        "Closing":289.4,
-        "Change":2.52,
-        "High":293.5,
-        "Low":285.0,
-        "Open":287.9
-    },
-    {
-        "Symbols":"SAEF",
-        "Closing":10.04,
-        "Change":0.4,
-        "High":10.04,
-        "Low":9.85,
-        "Open":9.85
-    },
-    {
-        "Symbols":"SAGF",
-        "Closing":8.15,
-        "Change":-0.97,
-        "High":8.35,
-        "Low":8.07,
-        "Open":8.07
-    },
-    {
-        "Symbols":"SAHAS",
-        "Closing":516.0,
-        "Change":0.98,
-        "High":518.0,
-        "Low":501.0,
-        "Open":501.0
-    },
-    {
-        "Symbols":"SANIMA",
-        "Closing":244.0,
-        "Change":1.67,
-        "High":244.0,
-        "Low":236.0,
-        "Open":236.0
-    },
-    {
-        "Symbols":"SAPDBL",
-        "Closing":230.0,
-        "Change":-0.86,
-        "High":233.1,
-        "Low":224.0,
-        "Open":228.1
-    },
-    {
-        "Symbols":"SBCF",
-        "Closing":8.55,
-        "Change":-10.0,
-        "High":9.68,
-        "Low":8.55,
-        "Open":9.68
-    },
-    {
-        "Symbols":"SBI",
-        "Closing":324.0,
-        "Change":-0.15,
-        "High":327.0,
-        "Low":319.0,
-        "Open":320.0
-    },
-    {
-        "Symbols":"SBID83",
-        "Closing":955.0,
-        "Change":0.0,
-        "High":955.0,
-        "Low":955.0,
-        "Open":955.0
-    },
-    {
-        "Symbols":"SBL",
-        "Closing":253.0,
-        "Change":1.61,
-        "High":253.5,
-        "Low":248.0,
-        "Open":250.0
-    },
-    {
-        "Symbols":"SCB",
-        "Closing":531.0,
-        "Change":0.95,
-        "High":535.0,
-        "Low":524.5,
-        "Open":528.0
-    },
-    {
-        "Symbols":"SDLBSL",
-        "Closing":636.1,
-        "Change":-2.14,
-        "High":645.0,
-        "Low":636.0,
-        "Open":637.0
-    },
-    {
-        "Symbols":"SEF",
-        "Closing":8.35,
-        "Change":1.71,
-        "High":8.35,
-        "Low":8.21,
-        "Open":8.21
-    },
-    {
-        "Symbols":"SFCL",
-        "Closing":279.0,
-        "Change":0.58,
-        "High":282.9,
-        "Low":275.0,
-        "Open":277.4
-    },
-    {
-        "Symbols":"SFEF",
-        "Closing":7.8,
-        "Change":-4.88,
-        "High":8.04,
-        "Low":7.77,
-        "Open":8.04
-    },
-    {
-        "Symbols":"SFMF",
-        "Closing":9.62,
-        "Change":-0.93,
-        "High":9.62,
-        "Low":9.55,
-        "Open":9.55
-    },
-    {
-        "Symbols":"SGHC",
-        "Closing":338.3,
-        "Change":-0.21,
-        "High":339.0,
-        "Low":326.1,
-        "Open":332.3
-    },
-    {
-        "Symbols":"SGIC",
-        "Closing":464.0,
-        "Change":-1.07,
-        "High":469.0,
-        "Low":455.0,
-        "Open":459.7
-    },
-    {
-        "Symbols":"SHEL",
-        "Closing":308.1,
-        "Change":-1.85,
-        "High":314.0,
-        "Low":308.0,
-        "Open":308.1
-    },
-    {
-        "Symbols":"SHINE",
-        "Closing":326.0,
-        "Change":2.19,
-        "High":327.4,
-        "Low":317.0,
-        "Open":319.0
-    },
-    {
-        "Symbols":"SHIVM",
-        "Closing":422.5,
-        "Change":4.06,
-        "High":425.0,
-        "Low":405.0,
-        "Open":408.0
-    },
-    {
-        "Symbols":"SHL",
-        "Closing":258.1,
-        "Change":2.1,
-        "High":259.6,
-        "Low":252.0,
-        "Open":252.0
-    },
-    {
-        "Symbols":"SHLB",
-        "Closing":1230.0,
-        "Change":3.27,
-        "High":1230.0,
-        "Low":1192.0,
-        "Open":1200.0
-    },
-    {
-        "Symbols":"SHPC",
-        "Closing":339.4,
-        "Change":0.41,
-        "High":340.0,
-        "Low":335.2,
-        "Open":335.2
-    },
-    {
-        "Symbols":"SICL",
-        "Closing":723.0,
-        "Change":0.65,
-        "High":728.8,
-        "Low":714.0,
-        "Open":714.2
-    },
-    {
-        "Symbols":"SIFC",
-        "Closing":314.9,
-        "Change":1.25,
-        "High":315.0,
-        "Low":307.5,
-        "Open":310.0
-    },
-    {
-        "Symbols":"SIGS2",
-        "Closing":8.19,
-        "Change":1.24,
-        "High":8.19,
-        "Low":8.04,
-        "Open":8.19
-    },
-    {
-        "Symbols":"SIKLES",
-        "Closing":426.0,
-        "Change":1.43,
-        "High":426.0,
-        "Low":411.6,
-        "Open":411.6
-    },
-    {
-        "Symbols":"SINDU",
-        "Closing":252.0,
-        "Change":0.44,
-        "High":253.9,
-        "Low":251.2,
-        "Open":253.9
-    },
-    {
-        "Symbols":"SJCL",
-        "Closing":299.0,
-        "Change":1.94,
-        "High":301.9,
-        "Low":293.3,
-        "Open":293.3
-    },
-    {
-        "Symbols":"SJLIC",
-        "Closing":428.3,
-        "Change":0.54,
-        "High":430.0,
-        "Low":420.0,
-        "Open":421.1
-    },
-    {
-        "Symbols":"SKBBL",
-        "Closing":840.0,
-        "Change":1.69,
-        "High":840.0,
-        "Low":827.0,
-        "Open":827.0
-    },
-    {
-        "Symbols":"SLBBL",
-        "Closing":575.0,
-        "Change":-1.2,
-        "High":582.0,
-        "Low":571.0,
-        "Open":576.0
-    },
-    {
-        "Symbols":"SLBSL",
-        "Closing":858.0,
-        "Change":-0.23,
-        "High":858.0,
-        "Low":842.8,
-        "Open":844.0
-    },
-    {
-        "Symbols":"SLCF",
-        "Closing":7.55,
-        "Change":1.75,
-        "High":7.56,
-        "Low":7.3,
-        "Open":7.3
-    },
-    {
-        "Symbols":"SMATA",
-        "Closing":599.0,
-        "Change":1.53,
-        "High":600.0,
-        "Low":566.7,
-        "Open":578.2
-    },
-    {
-        "Symbols":"SMB",
-        "Closing":865.0,
-        "Change":-2.37,
-        "High":888.0,
-        "Low":865.0,
-        "Open":888.0
-    },
-    {
-        "Symbols":"SMFBS",
-        "Closing":902.0,
-        "Change":-0.66,
-        "High":908.0,
-        "Low":902.0,
-        "Open":908.0
-    },
-    {
-        "Symbols":"SMFDB",
-        "Closing":848.9,
-        "Change":1.14,
-        "High":848.9,
-        "Low":825.1,
-        "Open":825.5
-    },
-    {
-        "Symbols":"SMFDBP",
-        "Closing":398.6,
-        "Change":-1.99,
-        "High":398.6,
-        "Low":398.6,
-        "Open":398.6
-    },
-    {
-        "Symbols":"SMH",
-        "Closing":569.8,
-        "Change":1.73,
-        "High":569.8,
-        "Low":542.3,
-        "Open":552.0
-    },
-    {
-        "Symbols":"SMHL",
-        "Closing":390.1,
-        "Change":1.06,
-        "High":397.0,
-        "Low":378.3,
-        "Open":378.3
-    },
-    {
-        "Symbols":"SMJC",
-        "Closing":296.8,
-        "Change":3.6,
-        "High":297.9,
-        "Low":274.7,
-        "Open":280.8
-    },
-    {
-        "Symbols":"SPC",
-        "Closing":455.0,
-        "Change":-1.09,
-        "High":487.0,
-        "Low":450.8,
-        "Open":450.9
-    },
-    {
-        "Symbols":"SPDL",
-        "Closing":299.0,
-        "Change":1.36,
-        "High":299.7,
-        "Low":290.0,
-        "Open":292.0
-    },
-    {
-        "Symbols":"SPHL",
-        "Closing":417.8,
-        "Change":3.16,
-        "High":417.8,
-        "Low":393.0,
-        "Open":397.0
-    },
-    {
-        "Symbols":"SPIL",
-        "Closing":602.0,
-        "Change":4.51,
-        "High":606.0,
-        "Low":566.8,
-        "Open":576.0
-    },
-    {
-        "Symbols":"SPL",
-        "Closing":540.0,
-        "Change":0.75,
-        "High":546.7,
-        "Low":527.2,
-        "Open":527.2
-    },
-    {
-        "Symbols":"SRBL",
-        "Closing":183.0,
-        "Change":1.1,
-        "High":184.1,
-        "Low":180.5,
-        "Open":181.1
-    },
-    {
-        "Symbols":"SSHL",
-        "Closing":220.0,
-        "Change":0.92,
-        "High":222.9,
-        "Low":215.2,
-        "Open":220.8
-    },
-    {
-        "Symbols":"STC",
-        "Closing":3857.0,
-        "Change":0.68,
-        "High":3857.0,
-        "Low":3800.0,
-        "Open":3831.0
-    },
-    {
-        "Symbols":"SWBBL",
-        "Closing":764.0,
-        "Change":1.3,
-        "High":783.7,
-        "Low":753.0,
-        "Open":769.0
-    },
-    {
-        "Symbols":"SWMF",
-        "Closing":696.1,
-        "Change":-0.41,
-        "High":700.0,
-        "Low":695.0,
-        "Open":700.0
-    },
-    {
-        "Symbols":"SWMFPO",
-        "Closing":447.0,
-        "Change":-0.16,
-        "High":447.0,
-        "Low":447.0,
-        "Open":447.0
-    },
-    {
-        "Symbols":"TAMOR",
-        "Closing":314.0,
-        "Change":1.29,
-        "High":316.0,
-        "Low":303.9,
-        "Open":303.9
-    },
-    {
-        "Symbols":"TPC",
-        "Closing":397.0,
-        "Change":0.25,
-        "High":401.6,
-        "Low":390.0,
-        "Open":390.0
-    },
-    {
-        "Symbols":"TRH",
-        "Closing":540.0,
-        "Change":8.0,
-        "High":540.0,
-        "Low":491.5,
-        "Open":491.5
-    },
-    {
-        "Symbols":"UHEWA",
-        "Closing":402.0,
-        "Change":0.5,
-        "High":410.0,
-        "Low":392.5,
-        "Open":393.1
-    },
-    {
-        "Symbols":"UIC",
-        "Closing":446.0,
-        "Change":0.02,
-        "High":451.0,
-        "Low":441.0,
-        "Open":450.9
-    },
-    {
-        "Symbols":"ULBSL",
-        "Closing":1310.0,
-        "Change":-1.58,
-        "High":1330.0,
-        "Low":1304.4,
-        "Open":1330.0
-    },
-    {
-        "Symbols":"ULI",
-        "Closing":376.0,
-        "Change":0.8,
-        "High":376.9,
-        "Low":367.1,
-        "Open":367.1
-    },
-    {
-        "Symbols":"UMHL",
-        "Closing":244.7,
-        "Change":1.96,
-        "High":244.7,
-        "Low":239.0,
-        "Open":242.0
-    },
-    {
-        "Symbols":"UMRH",
-        "Closing":488.8,
-        "Change":0.16,
-        "High":488.8,
-        "Low":479.0,
-        "Open":479.0
-    },
-    {
-        "Symbols":"UNHPL",
-        "Closing":228.0,
-        "Change":1.79,
-        "High":230.0,
-        "Low":220.1,
-        "Open":220.1
-    },
-    {
-        "Symbols":"UNL",
-        "Closing":23750.0,
-        "Change":2.81,
-        "High":23750.0,
-        "Low":23101.0,
-        "Open":23101.0
-    },
-    {
-        "Symbols":"UNLB",
-        "Closing":1605.0,
-        "Change":-0.37,
-        "High":1605.0,
-        "Low":1605.0,
-        "Open":1605.0
-    },
-    {
-        "Symbols":"UPCL",
-        "Closing":239.1,
-        "Change":0.89,
-        "High":242.0,
-        "Low":236.0,
-        "Open":239.0
-    },
-    {
-        "Symbols":"UPPER",
-        "Closing":441.0,
-        "Change":0.23,
-        "High":446.7,
-        "Low":436.2,
-        "Open":436.2
-    },
-    {
-        "Symbols":"USHEC",
-        "Closing":327.0,
-        "Change":0.62,
-        "High":335.0,
-        "Low":319.0,
-        "Open":319.0
-    },
-    {
-        "Symbols":"USLB",
-        "Closing":715.0,
-        "Change":-0.56,
-        "High":715.0,
-        "Low":705.0,
-        "Open":706.0
-    },
-    {
-        "Symbols":"VLBS",
-        "Closing":605.0,
-        "Change":-1.63,
-        "High":627.0,
-        "Low":605.0,
-        "Open":626.9
-    },
-    {
-        "Symbols":"WNLB",
-        "Closing":740.0,
-        "Change":-0.4,
-        "High":750.0,
-        "Low":728.2,
-        "Open":728.2
+        "Symbols": "ACLBSL",
+        "Closing": 552.0,
+        "Chg": 2.0,
+        "Change": 0.36,
+        "High": 555.5,
+        "Low": 550.0,
+        "Open": 555.0,
+        "Qty": 295.0,
+        "Txn *": 13.0
+    },
+    {
+        "Symbols": "ADBL",
+        "Closing": 229.2,
+        "Chg": -2.8,
+        "Change": -1.21,
+        "High": 234.0,
+        "Low": 227.6,
+        "Open": 227.6,
+        "Qty": 13142.0,
+        "Txn *": 117.0
+    },
+    {
+        "Symbols": "ADLB",
+        "Closing": 1300.0,
+        "Chg": -0.1,
+        "Change": -0.01,
+        "High": 1300.1,
+        "Low": 1300.0,
+        "Open": 1300.0,
+        "Qty": 185.0,
+        "Txn *": 3.0
+    },
+    {
+        "Symbols": "AHL",
+        "Closing": 337.0,
+        "Chg": -10.8,
+        "Change": -3.11,
+        "High": 343.3,
+        "Low": 330.1,
+        "Open": 341.0,
+        "Qty": 1890.0,
+        "Txn *": 106.0
+    },
+    {
+        "Symbols": "AHPC",
+        "Closing": 275.0,
+        "Chg": -7.0,
+        "Change": -2.48,
+        "High": 282.0,
+        "Low": 268.0,
+        "Open": 282.0,
+        "Qty": 48305.0,
+        "Txn *": 273.0
+    },
+    {
+        "Symbols": "AIL",
+        "Closing": 399.0,
+        "Chg": -1.0,
+        "Change": -0.25,
+        "High": 420.0,
+        "Low": 395.0,
+        "Open": 398.0,
+        "Qty": 2237.0,
+        "Txn *": 75.0
+    },
+    {
+        "Symbols": "AKJCL",
+        "Closing": 202.9,
+        "Chg": -6.1,
+        "Change": -2.92,
+        "High": 209.0,
+        "Low": 200.0,
+        "Open": 209.0,
+        "Qty": 42342.0,
+        "Txn *": 189.0
+    },
+    {
+        "Symbols": "AKPL",
+        "Closing": 359.0,
+        "Chg": -11.1,
+        "Change": -3.0,
+        "High": 375.0,
+        "Low": 354.0,
+        "Open": 370.1,
+        "Qty": 38600.0,
+        "Txn *": 266.0
+    },
+    {
+        "Symbols": "ALBSL",
+        "Closing": 670.0,
+        "Chg": 3.4,
+        "Change": 0.51,
+        "High": 681.6,
+        "Low": 655.2,
+        "Open": 666.6,
+        "Qty": 332.0,
+        "Txn *": 16.0
+    },
+    {
+        "Symbols": "ALICL",
+        "Closing": 548.0,
+        "Chg": -14.0,
+        "Change": -2.49,
+        "High": 560.0,
+        "Low": 540.0,
+        "Open": 558.0,
+        "Qty": 6383.0,
+        "Txn *": 71.0
+    },
+    {
+        "Symbols": "ANLB",
+        "Closing": 575.7,
+        "Chg": 33.0,
+        "Change": 6.08,
+        "High": 575.7,
+        "Low": 553.5,
+        "Open": 553.5,
+        "Qty": 30.0,
+        "Txn *": 3.0
+    },
+    {
+        "Symbols": "API",
+        "Closing": 226.9,
+        "Chg": -3.1,
+        "Change": -1.35,
+        "High": 231.0,
+        "Low": 224.3,
+        "Open": 230.0,
+        "Qty": 58559.0,
+        "Txn *": 353.0
+    },
+    {
+        "Symbols": "AVYAN",
+        "Closing": 583.0,
+        "Chg": -7.0,
+        "Change": -1.19,
+        "High": 584.0,
+        "Low": 560.0,
+        "Open": 578.2,
+        "Qty": 1760.0,
+        "Txn *": 68.0
+    },
+    {
+        "Symbols": "BARUN",
+        "Closing": 233.0,
+        "Chg": -5.0,
+        "Change": -2.1,
+        "High": 238.0,
+        "Low": 225.0,
+        "Open": 238.0,
+        "Qty": 10275.0,
+        "Txn *": 82.0
+    },
+    {
+        "Symbols": "BBC",
+        "Closing": 3109.0,
+        "Chg": 24.0,
+        "Change": 0.78,
+        "High": 3109.0,
+        "Low": 3050.0,
+        "Open": 3100.0,
+        "Qty": 370.0,
+        "Txn *": 8.0
+    },
+    {
+        "Symbols": "BFC",
+        "Closing": 295.1,
+        "Chg": -5.0,
+        "Change": -1.67,
+        "High": 301.0,
+        "Low": 295.1,
+        "Open": 300.1,
+        "Qty": 2026.0,
+        "Txn *": 31.0
+    },
+    {
+        "Symbols": "BHDC",
+        "Closing": 391.3,
+        "Chg": -10.7,
+        "Change": -2.66,
+        "High": 401.6,
+        "Low": 391.0,
+        "Open": 394.0,
+        "Qty": 1580.0,
+        "Txn *": 55.0
+    },
+    {
+        "Symbols": "BHL",
+        "Closing": 288.9,
+        "Chg": -17.1,
+        "Change": -5.59,
+        "High": 299.9,
+        "Low": 283.0,
+        "Open": 299.9,
+        "Qty": 6210.0,
+        "Txn *": 93.0
+    },
+    {
+        "Symbols": "BHPL",
+        "Closing": 440.0,
+        "Chg": -5.0,
+        "Change": -1.12,
+        "High": 440.0,
+        "Low": 432.3,
+        "Open": 440.0,
+        "Qty": 840.0,
+        "Txn *": 30.0
+    },
+    {
+        "Symbols": "BNHC",
+        "Closing": 353.4,
+        "Chg": -5.4,
+        "Change": -1.51,
+        "High": 378.8,
+        "Low": 353.4,
+        "Open": 360.9,
+        "Qty": 702.0,
+        "Txn *": 23.0
+    },
+    {
+        "Symbols": "BNT",
+        "Closing": 11345.0,
+        "Chg": -55.0,
+        "Change": -0.48,
+        "High": 11620.0,
+        "Low": 11152.0,
+        "Open": 11620.0,
+        "Qty": 270.0,
+        "Txn *": 18.0
+    },
+    {
+        "Symbols": "BOKD86",
+        "Closing": 800.0,
+        "Chg": 0.0,
+        "Change": 0.0,
+        "High": 816.0,
+        "Low": 800.0,
+        "Open": 810.0,
+        "Qty": 75.0,
+        "Txn *": 3.0
+    },
+    {
+        "Symbols": "BPCL",
+        "Closing": 308.0,
+        "Chg": -4.5,
+        "Change": -1.44,
+        "High": 312.0,
+        "Low": 307.0,
+        "Open": 307.2,
+        "Qty": 3751.0,
+        "Txn *": 50.0
+    },
+    {
+        "Symbols": "BPW",
+        "Closing": 247.2,
+        "Chg": 9.5,
+        "Change": 4.0,
+        "High": 247.2,
+        "Low": 242.4,
+        "Open": 242.4,
+        "Qty": 20.0,
+        "Txn *": 2.0
+    },
+    {
+        "Symbols": "CBBL",
+        "Closing": 764.0,
+        "Chg": 0.0,
+        "Change": 0.0,
+        "High": 774.0,
+        "Low": 760.0,
+        "Open": 760.0,
+        "Qty": 1644.0,
+        "Txn *": 68.0
+    },
+    {
+        "Symbols": "CBLD88",
+        "Closing": 874.0,
+        "Chg": 3.9,
+        "Change": 0.45,
+        "High": 887.0,
+        "Low": 870.0,
+        "Open": 870.0,
+        "Qty": 90.0,
+        "Txn *": 5.0
+    },
+    {
+        "Symbols": "CCBD88",
+        "Closing": 881.1,
+        "Chg": -1.4,
+        "Change": -0.16,
+        "High": 881.1,
+        "Low": 881.1,
+        "Open": 881.1,
+        "Qty": 25.0,
+        "Txn *": 1.0
+    },
+    {
+        "Symbols": "CFCL",
+        "Closing": 285.0,
+        "Chg": -5.4,
+        "Change": -1.86,
+        "High": 294.0,
+        "Low": 285.0,
+        "Open": 288.8,
+        "Qty": 4001.0,
+        "Txn *": 54.0
+    },
+    {
+        "Symbols": "CGH",
+        "Closing": 1023.5,
+        "Chg": -40.5,
+        "Change": -3.81,
+        "High": 1050.0,
+        "Low": 1023.5,
+        "Open": 1042.8,
+        "Qty": 1930.0,
+        "Txn *": 97.0
+    },
+    {
+        "Symbols": "CHCL",
+        "Closing": 461.0,
+        "Chg": -3.0,
+        "Change": -0.65,
+        "High": 466.6,
+        "Low": 459.0,
+        "Open": 465.0,
+        "Qty": 5671.0,
+        "Txn *": 69.0
+    },
+    {
+        "Symbols": "CHDC",
+        "Closing": 712.2,
+        "Chg": -7.7,
+        "Change": -1.07,
+        "High": 716.0,
+        "Low": 708.0,
+        "Open": 708.0,
+        "Qty": 4393.0,
+        "Txn *": 88.0
+    },
+    {
+        "Symbols": "CHL",
+        "Closing": 266.0,
+        "Chg": -11.0,
+        "Change": -3.97,
+        "High": 282.5,
+        "Low": 262.0,
+        "Open": 280.0,
+        "Qty": 3868.0,
+        "Txn *": 53.0
+    },
+    {
+        "Symbols": "CIT",
+        "Closing": 2005.0,
+        "Chg": -5.0,
+        "Change": -0.25,
+        "High": 2014.0,
+        "Low": 2000.1,
+        "Open": 2000.1,
+        "Qty": 3797.0,
+        "Txn *": 107.0
+    },
+    {
+        "Symbols": "CLBSL",
+        "Closing": 543.0,
+        "Chg": -19.1,
+        "Change": -3.4,
+        "High": 568.9,
+        "Low": 530.8,
+        "Open": 568.9,
+        "Qty": 809.0,
+        "Txn *": 25.0
+    },
+    {
+        "Symbols": "CMF1",
+        "Closing": 7.27,
+        "Chg": 0.04,
+        "Change": 0.55,
+        "High": 7.38,
+        "Low": 7.1,
+        "Open": 7.1,
+        "Qty": 2950.0,
+        "Txn *": 4.0
+    },
+    {
+        "Symbols": "CMF2",
+        "Closing": 7.87,
+        "Chg": 0.0,
+        "Change": 0.0,
+        "High": 7.9,
+        "Low": 7.87,
+        "Open": 7.9,
+        "Qty": 6695.0,
+        "Txn *": 5.0
+    },
+    {
+        "Symbols": "CORBL",
+        "Closing": 280.1,
+        "Chg": -6.9,
+        "Change": -2.4,
+        "High": 298.5,
+        "Low": 278.1,
+        "Open": 292.7,
+        "Qty": 3125.0,
+        "Txn *": 41.0
+    },
+    {
+        "Symbols": "CZBIL",
+        "Closing": 170.0,
+        "Chg": -1.0,
+        "Change": -0.58,
+        "High": 171.6,
+        "Low": 168.0,
+        "Open": 170.2,
+        "Qty": 43099.0,
+        "Txn *": 139.0
+    },
+    {
+        "Symbols": "DDBL",
+        "Closing": 618.7,
+        "Chg": -11.3,
+        "Change": -1.79,
+        "High": 626.0,
+        "Low": 616.0,
+        "Open": 620.1,
+        "Qty": 2972.0,
+        "Txn *": 74.0
+    },
+    {
+        "Symbols": "DHPL",
+        "Closing": 200.0,
+        "Chg": -9.0,
+        "Change": -4.31,
+        "High": 205.0,
+        "Low": 199.0,
+        "Open": 205.0,
+        "Qty": 4077.0,
+        "Txn *": 41.0
+    },
+    {
+        "Symbols": "DLBS",
+        "Closing": 690.0,
+        "Chg": -30.0,
+        "Change": -4.17,
+        "High": 725.0,
+        "Low": 690.0,
+        "Open": 720.0,
+        "Qty": 824.0,
+        "Txn *": 38.0
+    },
+    {
+        "Symbols": "DORDI",
+        "Closing": 262.0,
+        "Chg": -1.0,
+        "Change": -0.38,
+        "High": 268.2,
+        "Low": 257.9,
+        "Open": 258.0,
+        "Qty": 2666.0,
+        "Txn *": 67.0
+    },
+    {
+        "Symbols": "EBL",
+        "Closing": 535.0,
+        "Chg": -2.0,
+        "Change": -0.37,
+        "High": 537.0,
+        "Low": 526.0,
+        "Open": 537.0,
+        "Qty": 22829.0,
+        "Txn *": 196.0
+    },
+    {
+        "Symbols": "EBLD86",
+        "Closing": 800.0,
+        "Chg": 15.0,
+        "Change": 1.91,
+        "High": 800.0,
+        "Low": 800.0,
+        "Open": 800.0,
+        "Qty": 25.0,
+        "Txn *": 1.0
+    },
+    {
+        "Symbols": "EDBL",
+        "Closing": 278.4,
+        "Chg": -1.3,
+        "Change": -0.46,
+        "High": 284.0,
+        "Low": 274.8,
+        "Open": 277.5,
+        "Qty": 5745.0,
+        "Txn *": 44.0
+    },
+    {
+        "Symbols": "EHPL",
+        "Closing": 348.7,
+        "Chg": -38.7,
+        "Change": -9.99,
+        "High": 379.7,
+        "Low": 348.7,
+        "Open": 379.7,
+        "Qty": 12185.0,
+        "Txn *": 123.0
+    },
+    {
+        "Symbols": "ENL",
+        "Closing": 611.0,
+        "Chg": -9.0,
+        "Change": -1.45,
+        "High": 611.0,
+        "Low": 589.0,
+        "Open": 608.0,
+        "Qty": 663.0,
+        "Txn *": 25.0
+    },
+    {
+        "Symbols": "FMDBL",
+        "Closing": 505.0,
+        "Chg": -3.0,
+        "Change": -0.59,
+        "High": 506.0,
+        "Low": 497.2,
+        "Open": 504.0,
+        "Qty": 12485.0,
+        "Txn *": 133.0
+    },
+    {
+        "Symbols": "FOWAD",
+        "Closing": 1193.7,
+        "Chg": 3.2,
+        "Change": 0.27,
+        "High": 1200.0,
+        "Low": 1180.1,
+        "Open": 1190.5,
+        "Qty": 988.0,
+        "Txn *": 39.0
+    },
+    {
+        "Symbols": "GBBD85",
+        "Closing": 810.0,
+        "Chg": 0.0,
+        "Change": 0.0,
+        "High": 810.0,
+        "Low": 805.0,
+        "Open": 805.0,
+        "Qty": 75.0,
+        "Txn *": 3.0
+    },
+    {
+        "Symbols": "GBBL",
+        "Closing": 350.0,
+        "Chg": 0.0,
+        "Change": 0.0,
+        "High": 350.0,
+        "Low": 344.0,
+        "Open": 344.0,
+        "Qty": 9986.0,
+        "Txn *": 140.0
+    },
+    {
+        "Symbols": "GBILD86/87",
+        "Closing": 810.0,
+        "Chg": 14.1,
+        "Change": 1.77,
+        "High": 810.0,
+        "Low": 810.0,
+        "Open": 810.0,
+        "Qty": 25.0,
+        "Txn *": 2.0
+    },
+    {
+        "Symbols": "GBIME",
+        "Closing": 181.5,
+        "Chg": -1.5,
+        "Change": -0.82,
+        "High": 186.0,
+        "Low": 180.2,
+        "Open": 186.0,
+        "Qty": 70629.0,
+        "Txn *": 454.0
+    },
+    {
+        "Symbols": "GBLBS",
+        "Closing": 435.0,
+        "Chg": -5.0,
+        "Change": -1.14,
+        "High": 446.0,
+        "Low": 432.0,
+        "Open": 440.0,
+        "Qty": 1050.0,
+        "Txn *": 24.0
+    },
+    {
+        "Symbols": "GFCL",
+        "Closing": 425.0,
+        "Chg": -8.0,
+        "Change": -1.85,
+        "High": 425.0,
+        "Low": 417.1,
+        "Open": 424.5,
+        "Qty": 1811.0,
+        "Txn *": 21.0
+    },
+    {
+        "Symbols": "GHL",
+        "Closing": 224.0,
+        "Chg": -5.9,
+        "Change": -2.57,
+        "High": 229.9,
+        "Low": 210.0,
+        "Open": 229.9,
+        "Qty": 90627.0,
+        "Txn *": 332.0
+    },
+    {
+        "Symbols": "GIBF1",
+        "Closing": 7.71,
+        "Chg": -0.09,
+        "Change": -1.15,
+        "High": 7.71,
+        "Low": 7.7,
+        "Open": 7.7,
+        "Qty": 400.0,
+        "Txn *": 3.0
+    },
+    {
+        "Symbols": "GILB",
+        "Closing": 757.9,
+        "Chg": -12.1,
+        "Change": -1.57,
+        "High": 775.0,
+        "Low": 718.0,
+        "Open": 769.9,
+        "Qty": 1458.0,
+        "Txn *": 46.0
+    },
+    {
+        "Symbols": "GLH",
+        "Closing": 259.0,
+        "Chg": -5.9,
+        "Change": -2.23,
+        "High": 264.9,
+        "Low": 255.3,
+        "Open": 264.9,
+        "Qty": 5475.0,
+        "Txn *": 85.0
+    },
+    {
+        "Symbols": "GLICL",
+        "Closing": 344.0,
+        "Chg": -7.0,
+        "Change": -1.99,
+        "High": 353.9,
+        "Low": 340.1,
+        "Open": 351.1,
+        "Qty": 26209.0,
+        "Txn *": 161.0
+    },
+    {
+        "Symbols": "GMFBS",
+        "Closing": 667.0,
+        "Chg": 0.0,
+        "Change": 0.0,
+        "High": 667.0,
+        "Low": 667.0,
+        "Open": 667.0,
+        "Qty": 20.0,
+        "Txn *": 1.0
+    },
+    {
+        "Symbols": "GMFIL",
+        "Closing": 294.9,
+        "Chg": -8.1,
+        "Change": -2.67,
+        "High": 304.7,
+        "Low": 285.5,
+        "Open": 304.7,
+        "Qty": 905.0,
+        "Txn *": 15.0
+    },
+    {
+        "Symbols": "GRDBL",
+        "Closing": 240.4,
+        "Chg": -0.8,
+        "Change": -0.33,
+        "High": 253.2,
+        "Low": 240.0,
+        "Open": 240.0,
+        "Qty": 2452.0,
+        "Txn *": 26.0
+    },
+    {
+        "Symbols": "GUFL",
+        "Closing": 474.0,
+        "Chg": -6.0,
+        "Change": -1.25,
+        "High": 480.0,
+        "Low": 467.0,
+        "Open": 471.1,
+        "Qty": 6159.0,
+        "Txn *": 60.0
+    },
+    {
+        "Symbols": "GVL",
+        "Closing": 390.0,
+        "Chg": -1.4,
+        "Change": -0.36,
+        "High": 402.0,
+        "Low": 387.3,
+        "Open": 399.2,
+        "Qty": 6643.0,
+        "Txn *": 132.0
+    },
+    {
+        "Symbols": "HBL",
+        "Closing": 217.0,
+        "Chg": -2.0,
+        "Change": -0.91,
+        "High": 219.9,
+        "Low": 217.0,
+        "Open": 219.9,
+        "Qty": 18909.0,
+        "Txn *": 114.0
+    },
+    {
+        "Symbols": "HDHPC",
+        "Closing": 187.9,
+        "Chg": -4.6,
+        "Change": -2.39,
+        "High": 195.0,
+        "Low": 183.1,
+        "Open": 195.0,
+        "Qty": 120806.0,
+        "Txn *": 506.0
+    },
+    {
+        "Symbols": "HDL",
+        "Closing": 1880.0,
+        "Chg": -20.0,
+        "Change": -1.05,
+        "High": 1899.9,
+        "Low": 1878.0,
+        "Open": 1881.1,
+        "Qty": 11706.0,
+        "Txn *": 357.0
+    },
+    {
+        "Symbols": "HEI",
+        "Closing": 427.0,
+        "Chg": -7.0,
+        "Change": -1.61,
+        "High": 435.0,
+        "Low": 421.6,
+        "Open": 430.1,
+        "Qty": 7617.0,
+        "Txn *": 60.0
+    },
+    {
+        "Symbols": "HEIP",
+        "Closing": 250.1,
+        "Chg": -3.3,
+        "Change": -1.3,
+        "High": 250.4,
+        "Low": 250.0,
+        "Open": 250.4,
+        "Qty": 300.0,
+        "Txn *": 3.0
+    },
+    {
+        "Symbols": "HHL",
+        "Closing": 251.0,
+        "Chg": -5.3,
+        "Change": -2.07,
+        "High": 259.5,
+        "Low": 246.3,
+        "Open": 259.5,
+        "Qty": 4970.0,
+        "Txn *": 100.0
+    },
+    {
+        "Symbols": "HIDCL",
+        "Closing": 178.0,
+        "Chg": -1.9,
+        "Change": -1.06,
+        "High": 182.0,
+        "Low": 176.0,
+        "Open": 180.0,
+        "Qty": 44879.0,
+        "Txn *": 263.0
+    },
+    {
+        "Symbols": "HIDCLP",
+        "Closing": 98.0,
+        "Chg": 0.0,
+        "Change": 0.0,
+        "High": 99.2,
+        "Low": 97.6,
+        "Open": 99.2,
+        "Qty": 33941.0,
+        "Txn *": 49.0
+    },
+    {
+        "Symbols": "HPPL",
+        "Closing": 273.0,
+        "Chg": -0.5,
+        "Change": -0.18,
+        "High": 276.0,
+        "Low": 268.0,
+        "Open": 273.0,
+        "Qty": 4221.0,
+        "Txn *": 42.0
+    },
+    {
+        "Symbols": "HURJA",
+        "Closing": 260.0,
+        "Chg": -0.7,
+        "Change": -0.27,
+        "High": 264.0,
+        "Low": 245.0,
+        "Open": 260.7,
+        "Qty": 14500.0,
+        "Txn *": 79.0
+    },
+    {
+        "Symbols": "ICFC",
+        "Closing": 403.0,
+        "Chg": -3.0,
+        "Change": -0.74,
+        "High": 414.0,
+        "Low": 399.0,
+        "Open": 399.1,
+        "Qty": 6715.0,
+        "Txn *": 72.0
+    },
+    {
+        "Symbols": "ICFCD83",
+        "Closing": 1040.0,
+        "Chg": -20.0,
+        "Change": -1.89,
+        "High": 1040.1,
+        "Low": 1040.0,
+        "Open": 1040.1,
+        "Qty": 25.0,
+        "Txn *": 2.0
+    },
+    {
+        "Symbols": "IGI",
+        "Closing": 367.0,
+        "Chg": -7.9,
+        "Change": -2.11,
+        "High": 375.0,
+        "Low": 366.2,
+        "Open": 370.5,
+        "Qty": 12092.0,
+        "Txn *": 103.0
+    },
+    {
+        "Symbols": "ILBS",
+        "Closing": 582.0,
+        "Chg": -12.1,
+        "Change": -2.04,
+        "High": 590.0,
+        "Low": 578.2,
+        "Open": 583.0,
+        "Qty": 630.0,
+        "Txn *": 20.0
+    },
+    {
+        "Symbols": "JALPA",
+        "Closing": 1650.0,
+        "Chg": -30.0,
+        "Change": -1.79,
+        "High": 1689.0,
+        "Low": 1650.0,
+        "Open": 1655.0,
+        "Qty": 656.0,
+        "Txn *": 37.0
+    },
+    {
+        "Symbols": "JBBL",
+        "Closing": 256.0,
+        "Chg": -2.0,
+        "Change": -0.78,
+        "High": 259.0,
+        "Low": 254.0,
+        "Open": 256.0,
+        "Qty": 8128.0,
+        "Txn *": 59.0
+    },
+    {
+        "Symbols": "JBLB",
+        "Closing": 1394.0,
+        "Chg": -12.0,
+        "Change": -0.85,
+        "High": 1407.0,
+        "Low": 1380.0,
+        "Open": 1407.0,
+        "Qty": 2267.0,
+        "Txn *": 120.0
+    },
+    {
+        "Symbols": "JFL",
+        "Closing": 345.0,
+        "Chg": 0.0,
+        "Change": 0.0,
+        "High": 347.0,
+        "Low": 338.1,
+        "Open": 338.1,
+        "Qty": 3523.0,
+        "Txn *": 33.0
+    },
+    {
+        "Symbols": "JOSHI",
+        "Closing": 253.9,
+        "Chg": -5.7,
+        "Change": -2.2,
+        "High": 270.1,
+        "Low": 250.0,
+        "Open": 255.0,
+        "Qty": 18750.0,
+        "Txn *": 138.0
+    },
+    {
+        "Symbols": "KBL",
+        "Closing": 165.9,
+        "Chg": -0.5,
+        "Change": -0.3,
+        "High": 166.4,
+        "Low": 164.0,
+        "Open": 166.4,
+        "Qty": 47241.0,
+        "Txn *": 230.0
+    },
+    {
+        "Symbols": "KBLD86",
+        "Closing": 929.0,
+        "Chg": 9.0,
+        "Change": 0.98,
+        "High": 929.0,
+        "Low": 920.0,
+        "Open": 920.0,
+        "Qty": 525.0,
+        "Txn *": 3.0
+    },
+    {
+        "Symbols": "KDBY",
+        "Closing": 8.0,
+        "Chg": -0.13,
+        "Change": -1.6,
+        "High": 8.0,
+        "Low": 7.99,
+        "Open": 7.99,
+        "Qty": 1300.0,
+        "Txn *": 12.0
+    },
+    {
+        "Symbols": "KDL",
+        "Closing": 688.0,
+        "Chg": -25.0,
+        "Change": -3.51,
+        "High": 720.0,
+        "Low": 687.0,
+        "Open": 708.1,
+        "Qty": 15068.0,
+        "Txn *": 469.0
+    },
+    {
+        "Symbols": "KEF",
+        "Closing": 7.9,
+        "Chg": -0.05,
+        "Change": -0.63,
+        "High": 7.95,
+        "Low": 7.8,
+        "Open": 7.8,
+        "Qty": 1925.0,
+        "Txn *": 8.0
+    },
+    {
+        "Symbols": "KKHC",
+        "Closing": 210.0,
+        "Chg": -5.2,
+        "Change": -2.42,
+        "High": 214.0,
+        "Low": 207.1,
+        "Open": 211.0,
+        "Qty": 2597.0,
+        "Txn *": 44.0
+    },
+    {
+        "Symbols": "KLBS",
+        "Closing": 874.1,
+        "Chg": 0.1,
+        "Change": 0.01,
+        "High": 874.1,
+        "Low": 856.6,
+        "Open": 856.6,
+        "Qty": 200.0,
+        "Txn *": 15.0
+    },
+    {
+        "Symbols": "KLBSL",
+        "Closing": 565.0,
+        "Chg": -32.0,
+        "Change": -5.36,
+        "High": 588.0,
+        "Low": 565.0,
+        "Open": 588.0,
+        "Qty": 124.0,
+        "Txn *": 4.0
+    },
+    {
+        "Symbols": "KMCDB",
+        "Closing": 567.3,
+        "Chg": 0.3,
+        "Change": 0.05,
+        "High": 567.3,
+        "Low": 551.0,
+        "Open": 560.0,
+        "Qty": 533.0,
+        "Txn *": 16.0
+    },
+    {
+        "Symbols": "KPCL",
+        "Closing": 355.2,
+        "Chg": -5.8,
+        "Change": -1.61,
+        "High": 365.0,
+        "Low": 355.0,
+        "Open": 365.0,
+        "Qty": 1763.0,
+        "Txn *": 22.0
+    },
+    {
+        "Symbols": "KRBL",
+        "Closing": 251.0,
+        "Chg": -4.0,
+        "Change": -1.57,
+        "High": 254.0,
+        "Low": 242.0,
+        "Open": 254.0,
+        "Qty": 2350.0,
+        "Txn *": 22.0
+    },
+    {
+        "Symbols": "KSBBL",
+        "Closing": 288.0,
+        "Chg": 3.0,
+        "Change": 1.05,
+        "High": 289.0,
+        "Low": 281.4,
+        "Open": 285.0,
+        "Qty": 15375.0,
+        "Txn *": 100.0
+    },
+    {
+        "Symbols": "LBBL",
+        "Closing": 326.0,
+        "Chg": -3.0,
+        "Change": -0.91,
+        "High": 328.0,
+        "Low": 323.5,
+        "Open": 323.5,
+        "Qty": 5559.0,
+        "Txn *": 45.0
+    },
+    {
+        "Symbols": "LBL",
+        "Closing": 181.1,
+        "Chg": -0.9,
+        "Change": -0.49,
+        "High": 185.0,
+        "Low": 179.9,
+        "Open": 180.0,
+        "Qty": 22144.0,
+        "Txn *": 70.0
+    },
+    {
+        "Symbols": "LEC",
+        "Closing": 235.6,
+        "Chg": -4.5,
+        "Change": -1.87,
+        "High": 240.0,
+        "Low": 231.0,
+        "Open": 236.5,
+        "Qty": 4469.0,
+        "Txn *": 55.0
+    },
+    {
+        "Symbols": "LEMF",
+        "Closing": 8.2,
+        "Chg": -0.06,
+        "Change": -0.73,
+        "High": 8.2,
+        "Low": 8.1,
+        "Open": 8.1,
+        "Qty": 10880.0,
+        "Txn *": 5.0
+    },
+    {
+        "Symbols": "LICN",
+        "Closing": 1261.0,
+        "Chg": -7.0,
+        "Change": -0.55,
+        "High": 1268.0,
+        "Low": 1244.6,
+        "Open": 1268.0,
+        "Qty": 3812.0,
+        "Txn *": 34.0
+    },
+    {
+        "Symbols": "LLBS",
+        "Closing": 672.0,
+        "Chg": -8.0,
+        "Change": -1.18,
+        "High": 679.0,
+        "Low": 664.0,
+        "Open": 666.4,
+        "Qty": 470.0,
+        "Txn *": 8.0
+    },
+    {
+        "Symbols": "LUK",
+        "Closing": 8.16,
+        "Chg": 0.16,
+        "Change": 2.0,
+        "High": 8.16,
+        "Low": 8.0,
+        "Open": 8.0,
+        "Qty": 700.0,
+        "Txn *": 2.0
+    },
+    {
+        "Symbols": "MAKAR",
+        "Closing": 256.1,
+        "Chg": 1.1,
+        "Change": 0.43,
+        "High": 270.3,
+        "Low": 237.0,
+        "Open": 255.0,
+        "Qty": 24595.0,
+        "Txn *": 2159.0
+    },
+    {
+        "Symbols": "MBJC",
+        "Closing": 273.0,
+        "Chg": -7.0,
+        "Change": -2.5,
+        "High": 280.0,
+        "Low": 268.0,
+        "Open": 277.0,
+        "Qty": 19374.0,
+        "Txn *": 290.0
+    },
+    {
+        "Symbols": "MBL",
+        "Closing": 226.0,
+        "Chg": 1.0,
+        "Change": 0.44,
+        "High": 228.0,
+        "Low": 223.5,
+        "Open": 228.0,
+        "Qty": 25421.0,
+        "Txn *": 93.0
+    },
+    {
+        "Symbols": "MDB",
+        "Closing": 357.2,
+        "Chg": -4.3,
+        "Change": -1.19,
+        "High": 361.0,
+        "Low": 357.1,
+        "Open": 361.0,
+        "Qty": 2892.0,
+        "Txn *": 13.0
+    },
+    {
+        "Symbols": "MEN",
+        "Closing": 746.0,
+        "Chg": 2.0,
+        "Change": 0.27,
+        "High": 755.0,
+        "Low": 726.0,
+        "Open": 730.0,
+        "Qty": 800.0,
+        "Txn *": 28.0
+    },
+    {
+        "Symbols": "MERO",
+        "Closing": 516.0,
+        "Chg": -4.0,
+        "Change": -0.77,
+        "High": 520.0,
+        "Low": 515.0,
+        "Open": 520.0,
+        "Qty": 1097.0,
+        "Txn *": 20.0
+    },
+    {
+        "Symbols": "MFIL",
+        "Closing": 418.0,
+        "Chg": -4.1,
+        "Change": -0.97,
+        "High": 430.0,
+        "Low": 418.0,
+        "Open": 428.0,
+        "Qty": 4214.0,
+        "Txn *": 66.0
+    },
+    {
+        "Symbols": "MFLD85",
+        "Closing": 869.1,
+        "Chg": 17.0,
+        "Change": 2.0,
+        "High": 869.1,
+        "Low": 869.1,
+        "Open": 869.1,
+        "Qty": 25.0,
+        "Txn *": 1.0
+    },
+    {
+        "Symbols": "MHCL",
+        "Closing": 213.5,
+        "Chg": -5.5,
+        "Change": -2.51,
+        "High": 220.0,
+        "Low": 212.0,
+        "Open": 214.8,
+        "Qty": 14386.0,
+        "Txn *": 508.0
+    },
+    {
+        "Symbols": "MHL",
+        "Closing": 334.0,
+        "Chg": 6.0,
+        "Change": 1.83,
+        "High": 335.0,
+        "Low": 323.0,
+        "Open": 327.0,
+        "Qty": 2095.0,
+        "Txn *": 51.0
+    },
+    {
+        "Symbols": "MHNL",
+        "Closing": 268.2,
+        "Chg": -4.8,
+        "Change": -1.76,
+        "High": 270.0,
+        "Low": 258.8,
+        "Open": 270.0,
+        "Qty": 10174.0,
+        "Txn *": 59.0
+    },
+    {
+        "Symbols": "MKHC",
+        "Closing": 245.0,
+        "Chg": -11.0,
+        "Change": -4.3,
+        "High": 253.0,
+        "Low": 237.2,
+        "Open": 253.0,
+        "Qty": 9444.0,
+        "Txn *": 243.0
+    },
+    {
+        "Symbols": "MKJC",
+        "Closing": 376.1,
+        "Chg": -8.0,
+        "Change": -2.08,
+        "High": 385.1,
+        "Low": 375.4,
+        "Open": 384.1,
+        "Qty": 860.0,
+        "Txn *": 47.0
+    },
+    {
+        "Symbols": "MKLB",
+        "Closing": 644.0,
+        "Chg": 8.9,
+        "Change": 1.4,
+        "High": 660.7,
+        "Low": 601.3,
+        "Open": 647.8,
+        "Qty": 225.0,
+        "Txn *": 15.0
+    },
+    {
+        "Symbols": "MLBBL",
+        "Closing": 698.8,
+        "Chg": -1.2,
+        "Change": -0.17,
+        "High": 699.7,
+        "Low": 685.1,
+        "Open": 689.0,
+        "Qty": 125.0,
+        "Txn *": 11.0
+    },
+    {
+        "Symbols": "MLBL",
+        "Closing": 296.0,
+        "Chg": -2.0,
+        "Change": -0.67,
+        "High": 298.0,
+        "Low": 290.0,
+        "Open": 298.0,
+        "Qty": 13998.0,
+        "Txn *": 100.0
+    },
+    {
+        "Symbols": "MLBS",
+        "Closing": 705.0,
+        "Chg": -15.0,
+        "Change": -2.08,
+        "High": 706.0,
+        "Low": 697.1,
+        "Open": 706.0,
+        "Qty": 30.0,
+        "Txn *": 3.0
+    },
+    {
+        "Symbols": "MLBSL",
+        "Closing": 1800.0,
+        "Chg": 0.0,
+        "Change": 0.0,
+        "High": 1836.0,
+        "Low": 1780.0,
+        "Open": 1836.0,
+        "Qty": 488.0,
+        "Txn *": 34.0
+    },
+    {
+        "Symbols": "MMF1",
+        "Closing": 7.2,
+        "Chg": -0.17,
+        "Change": -2.31,
+        "High": 7.4,
+        "Low": 7.12,
+        "Open": 7.4,
+        "Qty": 5800.0,
+        "Txn *": 19.0
+    },
+    {
+        "Symbols": "MMFDB",
+        "Closing": 559.0,
+        "Chg": 1.9,
+        "Change": 0.34,
+        "High": 559.0,
+        "Low": 555.0,
+        "Open": 555.0,
+        "Qty": 50.0,
+        "Txn *": 3.0
+    },
+    {
+        "Symbols": "MNBBL",
+        "Closing": 381.6,
+        "Chg": -3.6,
+        "Change": -0.93,
+        "High": 385.0,
+        "Low": 380.0,
+        "Open": 382.0,
+        "Qty": 10799.0,
+        "Txn *": 146.0
+    },
+    {
+        "Symbols": "MPFL",
+        "Closing": 296.0,
+        "Chg": -17.0,
+        "Change": -5.43,
+        "High": 315.0,
+        "Low": 295.1,
+        "Open": 307.2,
+        "Qty": 5156.0,
+        "Txn *": 39.0
+    },
+    {
+        "Symbols": "MSLB",
+        "Closing": 686.0,
+        "Chg": -3.0,
+        "Change": -0.44,
+        "High": 686.0,
+        "Low": 675.3,
+        "Open": 678.0,
+        "Qty": 540.0,
+        "Txn *": 12.0
+    },
+    {
+        "Symbols": "NABBC",
+        "Closing": 370.0,
+        "Chg": -7.0,
+        "Change": -1.86,
+        "High": 384.5,
+        "Low": 369.0,
+        "Open": 384.5,
+        "Qty": 254.0,
+        "Txn *": 9.0
+    },
+    {
+        "Symbols": "NABIL",
+        "Closing": 593.0,
+        "Chg": -2.0,
+        "Change": -0.34,
+        "High": 595.0,
+        "Low": 591.0,
+        "Open": 595.0,
+        "Qty": 27670.0,
+        "Txn *": 434.0
+    },
+    {
+        "Symbols": "NADEP",
+        "Closing": 498.0,
+        "Chg": -15.5,
+        "Change": -3.02,
+        "High": 523.0,
+        "Low": 498.0,
+        "Open": 523.0,
+        "Qty": 2423.0,
+        "Txn *": 54.0
+    },
+    {
+        "Symbols": "NBF2",
+        "Closing": 8.4,
+        "Chg": -0.05,
+        "Change": -0.59,
+        "High": 8.45,
+        "Low": 8.29,
+        "Open": 8.29,
+        "Qty": 5500.0,
+        "Txn *": 8.0
+    },
+    {
+        "Symbols": "NBF3",
+        "Closing": 7.3,
+        "Chg": 0.1,
+        "Change": 1.39,
+        "High": 7.33,
+        "Low": 7.17,
+        "Open": 7.2,
+        "Qty": 7200.0,
+        "Txn *": 21.0
+    },
+    {
+        "Symbols": "NBL",
+        "Closing": 249.0,
+        "Chg": -1.1,
+        "Change": -0.44,
+        "High": 254.8,
+        "Low": 248.2,
+        "Open": 254.8,
+        "Qty": 29785.0,
+        "Txn *": 217.0
+    },
+    {
+        "Symbols": "NBLD85",
+        "Closing": 785.5,
+        "Chg": 15.4,
+        "Change": 2.0,
+        "High": 785.5,
+        "Low": 785.5,
+        "Open": 785.5,
+        "Qty": 10.0,
+        "Txn *": 1.0
+    },
+    {
+        "Symbols": "NBLD87",
+        "Closing": 760.3,
+        "Chg": -1.7,
+        "Change": -0.22,
+        "High": 770.0,
+        "Low": 760.3,
+        "Open": 770.0,
+        "Qty": 55.0,
+        "Txn *": 2.0
+    },
+    {
+        "Symbols": "NEF",
+        "Closing": 8.77,
+        "Chg": 0.02,
+        "Change": 0.23,
+        "High": 8.8,
+        "Low": 8.59,
+        "Open": 8.8,
+        "Qty": 44614.0,
+        "Txn *": 8.0
+    },
+    {
+        "Symbols": "NESDO",
+        "Closing": 2039.0,
+        "Chg": 2.0,
+        "Change": 0.1,
+        "High": 2075.0,
+        "Low": 2006.2,
+        "Open": 2055.0,
+        "Qty": 1170.0,
+        "Txn *": 61.0
+    },
+    {
+        "Symbols": "NFS",
+        "Closing": 264.9,
+        "Chg": -3.4,
+        "Change": -1.27,
+        "High": 270.0,
+        "Low": 260.0,
+        "Open": 268.3,
+        "Qty": 8428.0,
+        "Txn *": 69.0
+    },
+    {
+        "Symbols": "NGPL",
+        "Closing": 231.0,
+        "Chg": -6.5,
+        "Change": -2.74,
+        "High": 240.0,
+        "Low": 228.6,
+        "Open": 240.0,
+        "Qty": 58839.0,
+        "Txn *": 296.0
+    },
+    {
+        "Symbols": "NHDL",
+        "Closing": 365.1,
+        "Chg": -6.4,
+        "Change": -1.72,
+        "High": 374.0,
+        "Low": 365.0,
+        "Open": 371.0,
+        "Qty": 4485.0,
+        "Txn *": 49.0
+    },
+    {
+        "Symbols": "NHPC",
+        "Closing": 199.0,
+        "Chg": -6.0,
+        "Change": -2.93,
+        "High": 207.1,
+        "Low": 196.9,
+        "Open": 207.0,
+        "Qty": 45610.0,
+        "Txn *": 258.0
+    },
+    {
+        "Symbols": "NIBLGF",
+        "Closing": 8.37,
+        "Chg": 0.39,
+        "Change": 4.89,
+        "High": 8.37,
+        "Low": 7.59,
+        "Open": 7.87,
+        "Qty": 4450.0,
+        "Txn *": 18.0
+    },
+    {
+        "Symbols": "NIBLPF",
+        "Closing": 8.5,
+        "Chg": 0.13,
+        "Change": 1.55,
+        "High": 8.5,
+        "Low": 8.37,
+        "Open": 8.38,
+        "Qty": 52055.0,
+        "Txn *": 6.0
+    },
+    {
+        "Symbols": "NIBSF2",
+        "Closing": 7.25,
+        "Chg": 0.0,
+        "Change": 0.0,
+        "High": 7.25,
+        "Low": 7.2,
+        "Open": 7.2,
+        "Qty": 3450.0,
+        "Txn *": 12.0
+    },
+    {
+        "Symbols": "NICA",
+        "Closing": 708.0,
+        "Chg": -6.9,
+        "Change": -0.97,
+        "High": 719.0,
+        "Low": 706.5,
+        "Open": 712.0,
+        "Qty": 27837.0,
+        "Txn *": 252.0
+    },
+    {
+        "Symbols": "NICBF",
+        "Closing": 8.4,
+        "Chg": -0.14,
+        "Change": -1.64,
+        "High": 8.4,
+        "Low": 8.4,
+        "Open": 8.4,
+        "Qty": 1100.0,
+        "Txn *": 3.0
+    },
+    {
+        "Symbols": "NICFC",
+        "Closing": 7.64,
+        "Chg": -0.08,
+        "Change": -1.04,
+        "High": 7.72,
+        "Low": 7.64,
+        "Open": 7.72,
+        "Qty": 1200.0,
+        "Txn *": 9.0
+    },
+    {
+        "Symbols": "NICGF",
+        "Closing": 9.18,
+        "Chg": 0.18,
+        "Change": 2.0,
+        "High": 9.18,
+        "Low": 8.86,
+        "Open": 9.0,
+        "Qty": 1300.0,
+        "Txn *": 6.0
+    },
+    {
+        "Symbols": "NICL",
+        "Closing": 518.0,
+        "Chg": -1.0,
+        "Change": -0.19,
+        "High": 520.0,
+        "Low": 511.2,
+        "Open": 519.2,
+        "Qty": 9175.0,
+        "Txn *": 57.0
+    },
+    {
+        "Symbols": "NICLBSL",
+        "Closing": 539.0,
+        "Chg": 2.0,
+        "Change": 0.37,
+        "High": 541.9,
+        "Low": 528.0,
+        "Open": 536.0,
+        "Qty": 4752.0,
+        "Txn *": 151.0
+    },
+    {
+        "Symbols": "NICSF",
+        "Closing": 8.0,
+        "Chg": 0.09,
+        "Change": 1.14,
+        "High": 8.05,
+        "Low": 7.85,
+        "Open": 7.86,
+        "Qty": 12000.0,
+        "Txn *": 14.0
+    },
+    {
+        "Symbols": "NIFRA",
+        "Closing": 205.0,
+        "Chg": -0.9,
+        "Change": -0.44,
+        "High": 208.0,
+        "Low": 203.1,
+        "Open": 204.0,
+        "Qty": 44322.0,
+        "Txn *": 606.0
+    },
+    {
+        "Symbols": "NIL",
+        "Closing": 723.0,
+        "Chg": -3.0,
+        "Change": -0.41,
+        "High": 723.0,
+        "Low": 714.4,
+        "Open": 714.4,
+        "Qty": 6328.0,
+        "Txn *": 54.0
+    },
+    {
+        "Symbols": "NIMB",
+        "Closing": 179.6,
+        "Chg": -0.9,
+        "Change": -0.5,
+        "High": 183.0,
+        "Low": 179.5,
+        "Open": 180.0,
+        "Qty": 78252.0,
+        "Txn *": 350.0
+    },
+    {
+        "Symbols": "NIMBPO",
+        "Closing": 176.8,
+        "Chg": 6.8,
+        "Change": 4.0,
+        "High": 176.8,
+        "Low": 168.0,
+        "Open": 168.0,
+        "Qty": 1623.0,
+        "Txn *": 6.0
+    },
+    {
+        "Symbols": "NLBBL",
+        "Closing": 555.2,
+        "Chg": -9.8,
+        "Change": -1.73,
+        "High": 565.0,
+        "Low": 555.0,
+        "Open": 565.0,
+        "Qty": 665.0,
+        "Txn *": 13.0
+    },
+    {
+        "Symbols": "NLG",
+        "Closing": 602.0,
+        "Chg": -7.0,
+        "Change": -1.15,
+        "High": 615.0,
+        "Low": 592.4,
+        "Open": 615.0,
+        "Qty": 3317.0,
+        "Txn *": 19.0
+    },
+    {
+        "Symbols": "NLIC",
+        "Closing": 646.1,
+        "Chg": -6.9,
+        "Change": -1.06,
+        "High": 657.0,
+        "Low": 645.2,
+        "Open": 653.0,
+        "Qty": 11351.0,
+        "Txn *": 156.0
+    },
+    {
+        "Symbols": "NLICL",
+        "Closing": 566.0,
+        "Chg": -6.5,
+        "Change": -1.14,
+        "High": 573.0,
+        "Low": 565.7,
+        "Open": 573.0,
+        "Qty": 13443.0,
+        "Txn *": 108.0
+    },
+    {
+        "Symbols": "NMB",
+        "Closing": 234.0,
+        "Chg": -1.0,
+        "Change": -0.43,
+        "High": 236.0,
+        "Low": 231.0,
+        "Open": 232.0,
+        "Qty": 34426.0,
+        "Txn *": 131.0
+    },
+    {
+        "Symbols": "NMB50",
+        "Closing": 9.05,
+        "Chg": -0.1,
+        "Change": -1.09,
+        "High": 9.05,
+        "Low": 9.05,
+        "Open": 9.05,
+        "Qty": 1500.0,
+        "Txn *": 2.0
+    },
+    {
+        "Symbols": "NMBD87/88",
+        "Closing": 756.3,
+        "Chg": -4.7,
+        "Change": -0.62,
+        "High": 762.0,
+        "Low": 747.1,
+        "Open": 756.1,
+        "Qty": 215.0,
+        "Txn *": 10.0
+    },
+    {
+        "Symbols": "NMBMF",
+        "Closing": 482.9,
+        "Chg": -2.0,
+        "Change": -0.41,
+        "High": 484.9,
+        "Low": 472.1,
+        "Open": 484.9,
+        "Qty": 2187.0,
+        "Txn *": 41.0
+    },
+    {
+        "Symbols": "NMFBS",
+        "Closing": 1138.0,
+        "Chg": -24.0,
+        "Change": -2.07,
+        "High": 1162.8,
+        "Low": 1135.0,
+        "Open": 1139.1,
+        "Qty": 1127.0,
+        "Txn *": 42.0
+    },
+    {
+        "Symbols": "NRIC",
+        "Closing": 680.0,
+        "Chg": -9.0,
+        "Change": -1.31,
+        "High": 698.0,
+        "Low": 670.1,
+        "Open": 680.1,
+        "Qty": 18038.0,
+        "Txn *": 335.0
+    },
+    {
+        "Symbols": "NRN",
+        "Closing": 439.0,
+        "Chg": 1.8,
+        "Change": 0.41,
+        "High": 440.0,
+        "Low": 430.0,
+        "Open": 434.0,
+        "Qty": 5074.0,
+        "Txn *": 62.0
+    },
+    {
+        "Symbols": "NSIF2",
+        "Closing": 8.29,
+        "Chg": 0.13,
+        "Change": 1.59,
+        "High": 8.29,
+        "Low": 7.87,
+        "Open": 8.0,
+        "Qty": 5100.0,
+        "Txn *": 18.0
+    },
+    {
+        "Symbols": "NSLB",
+        "Closing": 550.1,
+        "Chg": -10.9,
+        "Change": -1.94,
+        "High": 550.1,
+        "Low": 550.1,
+        "Open": 550.1,
+        "Qty": 17.0,
+        "Txn *": 1.0
+    },
+    {
+        "Symbols": "NTC",
+        "Closing": 796.1,
+        "Chg": -2.0,
+        "Change": -0.25,
+        "High": 813.0,
+        "Low": 796.0,
+        "Open": 813.0,
+        "Qty": 12843.0,
+        "Txn *": 162.0
+    },
+    {
+        "Symbols": "NUBL",
+        "Closing": 536.5,
+        "Chg": -18.6,
+        "Change": -3.35,
+        "High": 550.0,
+        "Low": 532.2,
+        "Open": 544.0,
+        "Qty": 16572.0,
+        "Txn *": 227.0
+    },
+    {
+        "Symbols": "NYADI",
+        "Closing": 273.5,
+        "Chg": 0.5,
+        "Change": 0.18,
+        "High": 278.0,
+        "Low": 268.2,
+        "Open": 275.0,
+        "Qty": 2510.0,
+        "Txn *": 62.0
+    },
+    {
+        "Symbols": "OHL",
+        "Closing": 556.3,
+        "Chg": -25.7,
+        "Change": -4.42,
+        "High": 576.7,
+        "Low": 556.0,
+        "Open": 571.0,
+        "Qty": 8379.0,
+        "Txn *": 73.0
+    },
+    {
+        "Symbols": "PBD88",
+        "Closing": 858.0,
+        "Chg": -17.0,
+        "Change": -1.94,
+        "High": 860.0,
+        "Low": 858.0,
+        "Open": 860.0,
+        "Qty": 105.0,
+        "Txn *": 4.0
+    },
+    {
+        "Symbols": "PBLD84",
+        "Closing": 919.0,
+        "Chg": 18.0,
+        "Change": 2.0,
+        "High": 919.0,
+        "Low": 918.0,
+        "Open": 918.0,
+        "Qty": 20.0,
+        "Txn *": 2.0
+    },
+    {
+        "Symbols": "PCBL",
+        "Closing": 193.9,
+        "Chg": -0.2,
+        "Change": -0.1,
+        "High": 194.5,
+        "Low": 192.1,
+        "Open": 193.0,
+        "Qty": 13939.0,
+        "Txn *": 136.0
+    },
+    {
+        "Symbols": "PFL",
+        "Closing": 341.0,
+        "Chg": -1.9,
+        "Change": -0.55,
+        "High": 343.0,
+        "Low": 330.2,
+        "Open": 336.1,
+        "Qty": 3058.0,
+        "Txn *": 48.0
+    },
+    {
+        "Symbols": "PHCL",
+        "Closing": 309.0,
+        "Chg": -10.0,
+        "Change": -3.13,
+        "High": 318.0,
+        "Low": 305.0,
+        "Open": 312.7,
+        "Qty": 7445.0,
+        "Txn *": 330.0
+    },
+    {
+        "Symbols": "PICL",
+        "Closing": 371.9,
+        "Chg": -6.0,
+        "Change": -1.59,
+        "High": 374.9,
+        "Low": 365.0,
+        "Open": 372.1,
+        "Qty": 4856.0,
+        "Txn *": 42.0
+    },
+    {
+        "Symbols": "PLI",
+        "Closing": 390.0,
+        "Chg": -7.0,
+        "Change": -1.76,
+        "High": 396.0,
+        "Low": 382.0,
+        "Open": 396.0,
+        "Qty": 6219.0,
+        "Txn *": 180.0
+    },
+    {
+        "Symbols": "PLIC",
+        "Closing": 340.0,
+        "Chg": -13.7,
+        "Change": -3.87,
+        "High": 352.0,
+        "Low": 340.0,
+        "Open": 350.0,
+        "Qty": 18155.0,
+        "Txn *": 139.0
+    },
+    {
+        "Symbols": "PMHPL",
+        "Closing": 224.5,
+        "Chg": -1.5,
+        "Change": -0.66,
+        "High": 229.0,
+        "Low": 213.0,
+        "Open": 221.5,
+        "Qty": 5113.0,
+        "Txn *": 72.0
+    },
+    {
+        "Symbols": "PPCL",
+        "Closing": 322.0,
+        "Chg": -4.0,
+        "Change": -1.23,
+        "High": 336.9,
+        "Low": 320.0,
+        "Open": 332.0,
+        "Qty": 7496.0,
+        "Txn *": 34.0
+    },
+    {
+        "Symbols": "PPL",
+        "Closing": 253.4,
+        "Chg": -3.6,
+        "Change": -1.4,
+        "High": 256.0,
+        "Low": 249.4,
+        "Open": 251.9,
+        "Qty": 3439.0,
+        "Txn *": 129.0
+    },
+    {
+        "Symbols": "PRIN",
+        "Closing": 450.0,
+        "Chg": -9.0,
+        "Change": -1.96,
+        "High": 459.0,
+        "Low": 448.0,
+        "Open": 459.0,
+        "Qty": 3951.0,
+        "Txn *": 27.0
+    },
+    {
+        "Symbols": "PROFL",
+        "Closing": 291.0,
+        "Chg": -2.0,
+        "Change": -0.68,
+        "High": 296.8,
+        "Low": 290.0,
+        "Open": 291.1,
+        "Qty": 760.0,
+        "Txn *": 14.0
+    },
+    {
+        "Symbols": "PRVU",
+        "Closing": 164.4,
+        "Chg": -1.6,
+        "Change": -0.96,
+        "High": 168.0,
+        "Low": 164.1,
+        "Open": 168.0,
+        "Qty": 54380.0,
+        "Txn *": 337.0
+    },
+    {
+        "Symbols": "PSF",
+        "Closing": 8.1,
+        "Chg": 0.04,
+        "Change": 0.5,
+        "High": 8.1,
+        "Low": 7.95,
+        "Open": 7.96,
+        "Qty": 6150.0,
+        "Txn *": 16.0
+    },
+    {
+        "Symbols": "RADHI",
+        "Closing": 231.0,
+        "Chg": -11.0,
+        "Change": -4.55,
+        "High": 240.0,
+        "Low": 230.0,
+        "Open": 240.0,
+        "Qty": 43189.0,
+        "Txn *": 243.0
+    },
+    {
+        "Symbols": "RBCL",
+        "Closing": 12495.0,
+        "Chg": -255.0,
+        "Change": -2.0,
+        "High": 12700.0,
+        "Low": 12495.0,
+        "Open": 12700.0,
+        "Qty": 430.0,
+        "Txn *": 16.0
+    },
+    {
+        "Symbols": "RBCLPO",
+        "Closing": 10230.0,
+        "Chg": -420.0,
+        "Change": -3.94,
+        "High": 10437.0,
+        "Low": 10230.0,
+        "Open": 10437.0,
+        "Qty": 50.0,
+        "Txn *": 2.0
+    },
+    {
+        "Symbols": "RFPL",
+        "Closing": 247.0,
+        "Chg": -6.0,
+        "Change": -2.37,
+        "High": 250.0,
+        "Low": 242.9,
+        "Open": 248.1,
+        "Qty": 2975.0,
+        "Txn *": 90.0
+    },
+    {
+        "Symbols": "RHGCL",
+        "Closing": 259.0,
+        "Chg": -3.0,
+        "Change": -1.15,
+        "High": 272.0,
+        "Low": 245.0,
+        "Open": 267.0,
+        "Qty": 6570.0,
+        "Txn *": 137.0
+    },
+    {
+        "Symbols": "RHPL",
+        "Closing": 273.0,
+        "Chg": -10.0,
+        "Change": -3.53,
+        "High": 285.0,
+        "Low": 270.6,
+        "Open": 279.0,
+        "Qty": 14165.0,
+        "Txn *": 101.0
+    },
+    {
+        "Symbols": "RIDI",
+        "Closing": 274.0,
+        "Chg": -7.0,
+        "Change": -2.49,
+        "High": 283.0,
+        "Low": 270.1,
+        "Open": 281.0,
+        "Qty": 27210.0,
+        "Txn *": 210.0
+    },
+    {
+        "Symbols": "RLFL",
+        "Closing": 289.5,
+        "Chg": 3.1,
+        "Change": 1.08,
+        "High": 290.0,
+        "Low": 273.0,
+        "Open": 290.0,
+        "Qty": 12463.0,
+        "Txn *": 84.0
+    },
+    {
+        "Symbols": "RMDC",
+        "Closing": 665.2,
+        "Chg": -6.8,
+        "Change": -1.01,
+        "High": 695.0,
+        "Low": 665.2,
+        "Open": 681.0,
+        "Qty": 2182.0,
+        "Txn *": 35.0
+    },
+    {
+        "Symbols": "RMF1",
+        "Closing": 7.35,
+        "Chg": -0.13,
+        "Change": -1.74,
+        "High": 7.62,
+        "Low": 7.35,
+        "Open": 7.35,
+        "Qty": 1910.0,
+        "Txn *": 6.0
+    },
+    {
+        "Symbols": "RSDC",
+        "Closing": 477.9,
+        "Chg": -6.1,
+        "Change": -1.26,
+        "High": 484.0,
+        "Low": 475.3,
+        "Open": 484.0,
+        "Qty": 1704.0,
+        "Txn *": 21.0
+    },
+    {
+        "Symbols": "RULB",
+        "Closing": 629.0,
+        "Chg": -5.1,
+        "Change": -0.8,
+        "High": 640.0,
+        "Low": 622.1,
+        "Open": 622.1,
+        "Qty": 832.0,
+        "Txn *": 36.0
+    },
+    {
+        "Symbols": "RURU",
+        "Closing": 719.0,
+        "Chg": -1.0,
+        "Change": -0.14,
+        "High": 720.0,
+        "Low": 708.3,
+        "Open": 720.0,
+        "Qty": 419.0,
+        "Txn *": 15.0
+    },
+    {
+        "Symbols": "SABSL",
+        "Closing": 589.0,
+        "Chg": -13.0,
+        "Change": -2.16,
+        "High": 600.0,
+        "Low": 579.1,
+        "Open": 590.0,
+        "Qty": 791.0,
+        "Txn *": 22.0
+    },
+    {
+        "Symbols": "SADBL",
+        "Closing": 278.0,
+        "Chg": 4.8,
+        "Change": 1.76,
+        "High": 278.0,
+        "Low": 267.8,
+        "Open": 275.0,
+        "Qty": 8436.0,
+        "Txn *": 65.0
+    },
+    {
+        "Symbols": "SAEF",
+        "Closing": 10.0,
+        "Chg": 0.0,
+        "Change": 0.0,
+        "High": 10.1,
+        "Low": 9.91,
+        "Open": 10.0,
+        "Qty": 24500.0,
+        "Txn *": 12.0
+    },
+    {
+        "Symbols": "SAGF",
+        "Closing": 7.97,
+        "Chg": 0.05,
+        "Change": 0.63,
+        "High": 8.0,
+        "Low": 7.93,
+        "Open": 7.93,
+        "Qty": 600.0,
+        "Txn *": 5.0
+    },
+    {
+        "Symbols": "SAHAS",
+        "Closing": 486.0,
+        "Chg": -9.1,
+        "Change": -1.84,
+        "High": 496.1,
+        "Low": 485.3,
+        "Open": 485.3,
+        "Qty": 6732.0,
+        "Txn *": 126.0
+    },
+    {
+        "Symbols": "SANIMA",
+        "Closing": 240.0,
+        "Chg": -1.0,
+        "Change": -0.41,
+        "High": 243.0,
+        "Low": 239.6,
+        "Open": 239.6,
+        "Qty": 22709.0,
+        "Txn *": 158.0
+    },
+    {
+        "Symbols": "SAPDBL",
+        "Closing": 227.9,
+        "Chg": 0.9,
+        "Change": 0.4,
+        "High": 230.9,
+        "Low": 223.1,
+        "Open": 225.0,
+        "Qty": 2043.0,
+        "Txn *": 12.0
+    },
+    {
+        "Symbols": "SBCF",
+        "Closing": 7.46,
+        "Chg": -0.12,
+        "Change": -1.58,
+        "High": 7.59,
+        "Low": 7.43,
+        "Open": 7.43,
+        "Qty": 22300.0,
+        "Txn *": 7.0
+    },
+    {
+        "Symbols": "SBI",
+        "Closing": 330.0,
+        "Chg": 2.0,
+        "Change": 0.61,
+        "High": 334.5,
+        "Low": 321.4,
+        "Open": 334.5,
+        "Qty": 17136.0,
+        "Txn *": 93.0
+    },
+    {
+        "Symbols": "SBID83",
+        "Closing": 940.0,
+        "Chg": 36.4,
+        "Change": 4.03,
+        "High": 940.0,
+        "Low": 921.6,
+        "Open": 921.6,
+        "Qty": 25.0,
+        "Txn *": 2.0
+    },
+    {
+        "Symbols": "SBL",
+        "Closing": 244.9,
+        "Chg": -5.3,
+        "Change": -2.12,
+        "High": 250.0,
+        "Low": 244.3,
+        "Open": 247.0,
+        "Qty": 18757.0,
+        "Txn *": 136.0
+    },
+    {
+        "Symbols": "SBLD2082",
+        "Closing": 980.0,
+        "Chg": 1.0,
+        "Change": 0.1,
+        "High": 980.0,
+        "Low": 980.0,
+        "Open": 980.0,
+        "Qty": 25.0,
+        "Txn *": 1.0
+    },
+    {
+        "Symbols": "SCB",
+        "Closing": 522.1,
+        "Chg": -3.5,
+        "Change": -0.67,
+        "High": 532.9,
+        "Low": 522.1,
+        "Open": 525.0,
+        "Qty": 14529.0,
+        "Txn *": 120.0
+    },
+    {
+        "Symbols": "SDLBSL",
+        "Closing": 613.1,
+        "Chg": -17.2,
+        "Change": -2.73,
+        "High": 630.0,
+        "Low": 610.0,
+        "Open": 618.0,
+        "Qty": 626.0,
+        "Txn *": 23.0
+    },
+    {
+        "Symbols": "SEF",
+        "Closing": 8.25,
+        "Chg": 0.0,
+        "Change": 0.0,
+        "High": 8.25,
+        "Low": 8.09,
+        "Open": 8.09,
+        "Qty": 2100.0,
+        "Txn *": 3.0
+    },
+    {
+        "Symbols": "SFCL",
+        "Closing": 259.0,
+        "Chg": -6.0,
+        "Change": -2.26,
+        "High": 265.0,
+        "Low": 255.3,
+        "Open": 265.0,
+        "Qty": 7889.0,
+        "Txn *": 66.0
+    },
+    {
+        "Symbols": "SFEF",
+        "Closing": 7.83,
+        "Chg": -0.01,
+        "Change": -0.13,
+        "High": 7.86,
+        "Low": 7.71,
+        "Open": 7.71,
+        "Qty": 800.0,
+        "Txn *": 6.0
+    },
+    {
+        "Symbols": "SFMF",
+        "Closing": 9.9,
+        "Chg": 0.13,
+        "Change": 1.33,
+        "High": 9.9,
+        "Low": 9.72,
+        "Open": 9.72,
+        "Qty": 500.0,
+        "Txn *": 3.0
+    },
+    {
+        "Symbols": "SGHC",
+        "Closing": 294.8,
+        "Chg": -2.2,
+        "Change": -0.74,
+        "High": 300.0,
+        "Low": 285.5,
+        "Open": 291.1,
+        "Qty": 5385.0,
+        "Txn *": 87.0
+    },
+    {
+        "Symbols": "SGIC",
+        "Closing": 440.0,
+        "Chg": -6.0,
+        "Change": -1.35,
+        "High": 444.0,
+        "Low": 434.0,
+        "Open": 440.0,
+        "Qty": 2296.0,
+        "Txn *": 115.0
+    },
+    {
+        "Symbols": "SHEL",
+        "Closing": 281.5,
+        "Chg": -7.5,
+        "Change": -2.6,
+        "High": 283.5,
+        "Low": 276.1,
+        "Open": 283.5,
+        "Qty": 2110.0,
+        "Txn *": 44.0
+    },
+    {
+        "Symbols": "SHINE",
+        "Closing": 316.0,
+        "Chg": -2.0,
+        "Change": -0.63,
+        "High": 319.0,
+        "Low": 314.0,
+        "Open": 314.0,
+        "Qty": 14130.0,
+        "Txn *": 105.0
+    },
+    {
+        "Symbols": "SHIVM",
+        "Closing": 398.0,
+        "Chg": -2.0,
+        "Change": -0.5,
+        "High": 403.0,
+        "Low": 396.0,
+        "Open": 400.1,
+        "Qty": 94826.0,
+        "Txn *": 454.0
+    },
+    {
+        "Symbols": "SHL",
+        "Closing": 256.6,
+        "Chg": -3.3,
+        "Change": -1.27,
+        "High": 262.0,
+        "Low": 255.3,
+        "Open": 258.0,
+        "Qty": 25102.0,
+        "Txn *": 101.0
+    },
+    {
+        "Symbols": "SHLB",
+        "Closing": 1107.6,
+        "Chg": -38.4,
+        "Change": -3.35,
+        "High": 1145.0,
+        "Low": 1107.6,
+        "Open": 1130.1,
+        "Qty": 407.0,
+        "Txn *": 29.0
+    },
+    {
+        "Symbols": "SHPC",
+        "Closing": 319.0,
+        "Chg": -2.0,
+        "Change": -0.62,
+        "High": 324.0,
+        "Low": 316.0,
+        "Open": 318.1,
+        "Qty": 27770.0,
+        "Txn *": 122.0
+    },
+    {
+        "Symbols": "SICL",
+        "Closing": 708.0,
+        "Chg": -14.0,
+        "Change": -1.94,
+        "High": 722.0,
+        "Low": 705.0,
+        "Open": 720.0,
+        "Qty": 12241.0,
+        "Txn *": 173.0
+    },
+    {
+        "Symbols": "SIFC",
+        "Closing": 307.8,
+        "Chg": -4.0,
+        "Change": -1.28,
+        "High": 307.8,
+        "Low": 300.0,
+        "Open": 305.6,
+        "Qty": 4327.0,
+        "Txn *": 36.0
+    },
+    {
+        "Symbols": "SIKLES",
+        "Closing": 400.0,
+        "Chg": 0.0,
+        "Change": 0.0,
+        "High": 401.2,
+        "Low": 392.0,
+        "Open": 395.0,
+        "Qty": 1087.0,
+        "Txn *": 61.0
+    },
+    {
+        "Symbols": "SINDU",
+        "Closing": 244.2,
+        "Chg": -6.8,
+        "Change": -2.71,
+        "High": 250.0,
+        "Low": 244.2,
+        "Open": 249.0,
+        "Qty": 1330.0,
+        "Txn *": 15.0
+    },
+    {
+        "Symbols": "SJCL",
+        "Closing": 266.6,
+        "Chg": -5.4,
+        "Change": -1.99,
+        "High": 277.0,
+        "Low": 264.1,
+        "Open": 277.0,
+        "Qty": 13230.0,
+        "Txn *": 95.0
+    },
+    {
+        "Symbols": "SJLIC",
+        "Closing": 415.5,
+        "Chg": -2.5,
+        "Change": -0.6,
+        "High": 418.0,
+        "Low": 412.4,
+        "Open": 418.0,
+        "Qty": 12442.0,
+        "Txn *": 136.0
+    },
+    {
+        "Symbols": "SKBBL",
+        "Closing": 812.1,
+        "Chg": 5.1,
+        "Change": 0.63,
+        "High": 819.5,
+        "Low": 807.0,
+        "Open": 807.0,
+        "Qty": 2568.0,
+        "Txn *": 37.0
+    },
+    {
+        "Symbols": "SLBBL",
+        "Closing": 540.0,
+        "Chg": -0.1,
+        "Change": -0.02,
+        "High": 550.0,
+        "Low": 538.0,
+        "Open": 541.0,
+        "Qty": 482.0,
+        "Txn *": 13.0
+    },
+    {
+        "Symbols": "SLBSL",
+        "Closing": 778.0,
+        "Chg": -22.0,
+        "Change": -2.75,
+        "High": 790.0,
+        "Low": 765.0,
+        "Open": 790.0,
+        "Qty": 333.0,
+        "Txn *": 10.0
+    },
+    {
+        "Symbols": "SLCF",
+        "Closing": 7.32,
+        "Chg": 0.16,
+        "Change": 2.23,
+        "High": 7.35,
+        "Low": 7.18,
+        "Open": 7.18,
+        "Qty": 3120.0,
+        "Txn *": 7.0
+    },
+    {
+        "Symbols": "SMATA",
+        "Closing": 574.0,
+        "Chg": -9.2,
+        "Change": -1.58,
+        "High": 585.0,
+        "Low": 574.0,
+        "Open": 585.0,
+        "Qty": 80.0,
+        "Txn *": 3.0
+    },
+    {
+        "Symbols": "SMB",
+        "Closing": 854.0,
+        "Chg": 4.0,
+        "Change": 0.47,
+        "High": 854.0,
+        "Low": 833.0,
+        "Open": 834.0,
+        "Qty": 134.0,
+        "Txn *": 7.0
+    },
+    {
+        "Symbols": "SMFBS",
+        "Closing": 842.7,
+        "Chg": -17.3,
+        "Change": -2.01,
+        "High": 843.0,
+        "Low": 826.2,
+        "Open": 843.0,
+        "Qty": 49.0,
+        "Txn *": 5.0
+    },
+    {
+        "Symbols": "SMFDB",
+        "Closing": 824.0,
+        "Chg": -12.4,
+        "Change": -1.48,
+        "High": 824.0,
+        "Low": 808.1,
+        "Open": 820.2,
+        "Qty": 404.0,
+        "Txn *": 11.0
+    },
+    {
+        "Symbols": "SMH",
+        "Closing": 539.5,
+        "Chg": -10.5,
+        "Change": -1.91,
+        "High": 539.5,
+        "Low": 520.0,
+        "Open": 539.0,
+        "Qty": 1560.0,
+        "Txn *": 89.0
+    },
+    {
+        "Symbols": "SMHL",
+        "Closing": 382.9,
+        "Chg": 0.9,
+        "Change": 0.24,
+        "High": 385.0,
+        "Low": 375.1,
+        "Open": 375.1,
+        "Qty": 9604.0,
+        "Txn *": 229.0
+    },
+    {
+        "Symbols": "SMJC",
+        "Closing": 244.9,
+        "Chg": -7.1,
+        "Change": -2.82,
+        "High": 253.0,
+        "Low": 241.0,
+        "Open": 249.9,
+        "Qty": 20007.0,
+        "Txn *": 753.0
+    },
+    {
+        "Symbols": "SPC",
+        "Closing": 417.1,
+        "Chg": -5.1,
+        "Change": -1.21,
+        "High": 439.0,
+        "Low": 413.8,
+        "Open": 420.0,
+        "Qty": 1195.0,
+        "Txn *": 35.0
+    },
+    {
+        "Symbols": "SPDL",
+        "Closing": 273.0,
+        "Chg": -4.0,
+        "Change": -1.44,
+        "High": 277.0,
+        "Low": 268.6,
+        "Open": 272.3,
+        "Qty": 6106.0,
+        "Txn *": 52.0
+    },
+    {
+        "Symbols": "SPHL",
+        "Closing": 374.0,
+        "Chg": -10.9,
+        "Change": -2.83,
+        "High": 380.0,
+        "Low": 369.9,
+        "Open": 377.3,
+        "Qty": 1027.0,
+        "Txn *": 32.0
+    },
+    {
+        "Symbols": "SPIL",
+        "Closing": 569.0,
+        "Chg": 0.5,
+        "Change": 0.09,
+        "High": 570.0,
+        "Low": 562.2,
+        "Open": 568.0,
+        "Qty": 13706.0,
+        "Txn *": 66.0
+    },
+    {
+        "Symbols": "SPL",
+        "Closing": 519.9,
+        "Chg": 0.9,
+        "Change": 0.17,
+        "High": 519.9,
+        "Low": 509.0,
+        "Open": 509.0,
+        "Qty": 1180.0,
+        "Txn *": 83.0
+    },
+    {
+        "Symbols": "SRBL",
+        "Closing": 178.5,
+        "Chg": 2.2,
+        "Change": 1.25,
+        "High": 181.5,
+        "Low": 175.4,
+        "Open": 175.4,
+        "Qty": 9053.0,
+        "Txn *": 58.0
+    },
+    {
+        "Symbols": "SSHL",
+        "Closing": 191.0,
+        "Chg": -13.0,
+        "Change": -6.37,
+        "High": 205.0,
+        "Low": 190.6,
+        "Open": 205.0,
+        "Qty": 78808.0,
+        "Txn *": 325.0
+    },
+    {
+        "Symbols": "STC",
+        "Closing": 3680.0,
+        "Chg": -30.0,
+        "Change": -0.81,
+        "High": 3730.0,
+        "Low": 3665.0,
+        "Open": 3710.0,
+        "Qty": 470.0,
+        "Txn *": 17.0
+    },
+    {
+        "Symbols": "SWBBL",
+        "Closing": 721.0,
+        "Chg": 0.7,
+        "Change": 0.1,
+        "High": 721.0,
+        "Low": 711.0,
+        "Open": 715.3,
+        "Qty": 1871.0,
+        "Txn *": 47.0
+    },
+    {
+        "Symbols": "SWMF",
+        "Closing": 552.0,
+        "Chg": 2.0,
+        "Change": 0.36,
+        "High": 594.0,
+        "Low": 539.1,
+        "Open": 539.1,
+        "Qty": 1218.0,
+        "Txn *": 27.0
+    },
+    {
+        "Symbols": "TAMOR",
+        "Closing": 265.4,
+        "Chg": -9.8,
+        "Change": -3.56,
+        "High": 274.0,
+        "Low": 265.0,
+        "Open": 273.0,
+        "Qty": 30467.0,
+        "Txn *": 694.0
+    },
+    {
+        "Symbols": "TPC",
+        "Closing": 393.0,
+        "Chg": 4.0,
+        "Change": 1.03,
+        "High": 394.0,
+        "Low": 366.0,
+        "Open": 382.0,
+        "Qty": 415.0,
+        "Txn *": 27.0
+    },
+    {
+        "Symbols": "TRH",
+        "Closing": 500.0,
+        "Chg": -7.1,
+        "Change": -1.4,
+        "High": 515.0,
+        "Low": 495.0,
+        "Open": 497.0,
+        "Qty": 40127.0,
+        "Txn *": 129.0
+    },
+    {
+        "Symbols": "UHEWA",
+        "Closing": 370.0,
+        "Chg": -2.0,
+        "Change": -0.54,
+        "High": 370.0,
+        "Low": 360.3,
+        "Open": 365.0,
+        "Qty": 2600.0,
+        "Txn *": 72.0
+    },
+    {
+        "Symbols": "UIC",
+        "Closing": 419.0,
+        "Chg": -18.0,
+        "Change": -4.12,
+        "High": 428.3,
+        "Low": 416.2,
+        "Open": 428.3,
+        "Qty": 13143.0,
+        "Txn *": 59.0
+    },
+    {
+        "Symbols": "ULBSL",
+        "Closing": 1280.0,
+        "Chg": -20.0,
+        "Change": -1.54,
+        "High": 1310.0,
+        "Low": 1280.0,
+        "Open": 1300.0,
+        "Qty": 220.0,
+        "Txn *": 9.0
+    },
+    {
+        "Symbols": "ULI",
+        "Closing": 358.0,
+        "Chg": -13.0,
+        "Change": -3.5,
+        "High": 370.0,
+        "Low": 355.0,
+        "Open": 363.6,
+        "Qty": 7451.0,
+        "Txn *": 194.0
+    },
+    {
+        "Symbols": "UMHL",
+        "Closing": 222.0,
+        "Chg": -5.0,
+        "Change": -2.2,
+        "High": 227.0,
+        "Low": 218.7,
+        "Open": 223.3,
+        "Qty": 16858.0,
+        "Txn *": 109.0
+    },
+    {
+        "Symbols": "UMRH",
+        "Closing": 449.0,
+        "Chg": -6.0,
+        "Change": -1.32,
+        "High": 454.0,
+        "Low": 445.9,
+        "Open": 445.9,
+        "Qty": 430.0,
+        "Txn *": 13.0
+    },
+    {
+        "Symbols": "UNHPL",
+        "Closing": 203.0,
+        "Chg": -8.0,
+        "Change": -3.79,
+        "High": 210.9,
+        "Low": 199.0,
+        "Open": 206.8,
+        "Qty": 22620.0,
+        "Txn *": 100.0
+    },
+    {
+        "Symbols": "UNL",
+        "Closing": 23300.0,
+        "Chg": -100.0,
+        "Change": -0.43,
+        "High": 24750.0,
+        "Low": 23300.0,
+        "Open": 23868.0,
+        "Qty": 110.0,
+        "Txn *": 10.0
+    },
+    {
+        "Symbols": "UNLB",
+        "Closing": 1655.0,
+        "Chg": 12.8,
+        "Change": 0.78,
+        "High": 1655.0,
+        "Low": 1520.0,
+        "Open": 1609.4,
+        "Qty": 115.0,
+        "Txn *": 9.0
+    },
+    {
+        "Symbols": "UPCL",
+        "Closing": 219.0,
+        "Chg": -4.9,
+        "Change": -2.19,
+        "High": 224.9,
+        "Low": 216.0,
+        "Open": 220.6,
+        "Qty": 40390.0,
+        "Txn *": 188.0
+    },
+    {
+        "Symbols": "UPPER",
+        "Closing": 412.0,
+        "Chg": -10.0,
+        "Change": -2.37,
+        "High": 423.0,
+        "Low": 407.7,
+        "Open": 417.6,
+        "Qty": 27548.0,
+        "Txn *": 264.0
+    },
+    {
+        "Symbols": "USHEC",
+        "Closing": 283.5,
+        "Chg": -3.5,
+        "Change": -1.22,
+        "High": 283.5,
+        "Low": 276.0,
+        "Open": 281.3,
+        "Qty": 1944.0,
+        "Txn *": 84.0
+    },
+    {
+        "Symbols": "USLB",
+        "Closing": 680.0,
+        "Chg": -4.9,
+        "Change": -0.72,
+        "High": 681.0,
+        "Low": 678.0,
+        "Open": 678.0,
+        "Qty": 128.0,
+        "Txn *": 5.0
+    },
+    {
+        "Symbols": "VLBS",
+        "Closing": 565.0,
+        "Chg": -10.0,
+        "Change": -1.74,
+        "High": 571.0,
+        "Low": 565.0,
+        "Open": 571.0,
+        "Qty": 80.0,
+        "Txn *": 6.0
+    },
+    {
+        "Symbols": "WNLB",
+        "Closing": 792.0,
+        "Chg": 59.0,
+        "Change": 8.05,
+        "High": 792.0,
+        "Low": 720.3,
+        "Open": 720.3,
+        "Qty": 72.0,
+        "Txn *": 7.0
     }
 ]
