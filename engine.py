@@ -1,31 +1,38 @@
 import os, json, sqlite3, datetime, time
 from sqlalchemy import true
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
+import asyncio
+from pyppeteer import launch
 from bs4 import BeautifulSoup
 
 outpath='data\data.json'
-def scrape():
+async def scrape():
     if (os.path.exists(outpath)):
         os.remove(outpath)
-    # Set Chrome options to run headless
-    chrome_options = Options()
-    chrome_options.add_argument('--headless')
-    chrome_options.add_argument('--disable-gpu')
-    # Initialize the webdriver
-    driver = webdriver.Chrome(options=chrome_options)
-    # Open the webpage
-    driver.get("https://www.nepalipaisa.com/live-market")
+    
+    # Launch a headless instance of Pyppeteer
+    browser = await launch(headless=True)
+
+    # Create a new page
+    page = await browser.newPage()
+
+    # Navigate to the webpage
+    await page.goto("https://www.nepalipaisa.com/live-market")
+
     # Wait for the table to load
-    driver.implicitly_wait(10)
+    await page.waitForSelector('.table.table-responsive')
+
     # Get the page source
-    html = driver.page_source
-    # Close the webdriver
-    driver.quit()
+    html = await page.content()
+
+    # Close the browser
+    await browser.close()
+
     # Parse the html using BeautifulSoup
     soup = BeautifulSoup(html, 'html.parser')
+
     # Find the table
     table = soup.find('table', {'class': 'table table-responsive'})
+
     # Extract data from the table
     headers = ["Symbols","Closing","Chg","Change","High","Low","Open","Qty","Txn *"]
     rows = []
@@ -37,7 +44,7 @@ def scrape():
     for row in rows[1:]:
         data.append(dict(zip(headers, row)))
 
-    #Convert string numbers in float values
+    # Convert string numbers in float values
     for row in data:
         row['Closing'] = float(row['Closing'].replace(',', ''))
         row['Chg'] = float(row['Chg'].replace(',', ''))
@@ -51,6 +58,7 @@ def scrape():
     # Save data to JSON file
     with open(outpath, 'w') as f:
         json.dump(data, f, indent=4)
+asyncio.get_event_loop().run_until_complete(scrape())
 
 def read_nepse_data():
     scrape()
