@@ -1,92 +1,78 @@
-import os, json, sqlite3, datetime, time
+import os
+import json
+import sqlite3
+import datetime
+import time
 from sqlalchemy import true
 import asyncio
 from pyppeteer import launch
 from bs4 import BeautifulSoup
 
-outpath='data\data.json'
-async def scrape():
-    if (os.path.exists(outpath)):
-        os.remove(outpath)
-    
-    # Launch a headless instance of Pyppeteer
-    browser = await launch(headless=True)
+counter = 1
+outpath = 'data\data.json'
+while true:
+    print(f"Attempt {counter}")
 
-    # Create a new page
-    page = await browser.newPage()
+    async def scrape():
+        # Launch a headless instance of Pyppeteer
+        browser = await launch(headless=True)
+        # browser = await launch(executablePath='/usr/bin/google-chrome-stable', headless=True, args=['--no-sandbox'])
 
-    # Navigate to the webpage
-    await page.goto("https://www.nepalipaisa.com/live-market")
+        # Create a new page
+        page = await browser.newPage()
 
-    # Wait for the table to load
-    await page.waitForSelector('.table.table-responsive')
+        # Navigate to the webpage
+        await page.goto("https://www.nepalipaisa.com/live-market")
 
-    # Get the page source
-    html = await page.content()
+        # Wait for the table to load
+        await page.waitForSelector('.bg-positive-lv-1', {'timeout': 50000})
 
-    # Close the browser
-    await browser.close()
+        # Get the page source
+        html = await page.content()
 
-    # Parse the html using BeautifulSoup
-    soup = BeautifulSoup(html, 'html.parser')
+        # Close the browser
+        await browser.close()
 
-    # Find the table
-    table = soup.find('table', {'class': 'table table-responsive'})
+        # Parse the html using BeautifulSoup
+        soup = BeautifulSoup(html, 'html.parser')
 
-    # Extract data from the table
-    headers = ["Symbols","Closing","Chg","Change","High","Low","Open","Qty","Txn *"]
-    rows = []
-    for row in table.find_all('tr'):
-        rows.append([cell.text.strip() for cell in row.find_all('td')])
+        # Find the table
+        table = soup.find('table', {'class': 'table table-responsive'})
 
-    # Combine headers and data into a list of dictionaries
-    data = []
-    for row in rows[1:]:
-        data.append(dict(zip(headers, row)))
+        # Extract data from the table
+        headers = ["Symbol", "Closing", "Chg", "Change",
+                   "High", "Low", "Open", "Qty", "Txn *"]
+        rows = []
+        for row in table.find_all('tr'):
+            rows.append([cell.text.strip() for cell in row.find_all('td')])
 
-    # Convert string numbers in float values
-    for row in data:
-        row['Closing'] = float(row['Closing'].replace(',', ''))
-        row['Chg'] = float(row['Chg'].replace(',', ''))
-        row['Change'] = float(row['Change'].replace(',', ''))
-        row['High'] = float(row['High'].replace(',', ''))
-        row['Low'] = float(row['Low'].replace(',', ''))
-        row['Open'] = float(row['Open'].replace(',', ''))
-        row['Qty'] = float(row['Qty'].replace(',', ''))
-        row['Txn *'] = float(row['Txn *'].replace(',', ''))
+        # Combine headers and data into a list of dictionaries
+        data = []
+        for row in rows[1:]:
+            data.append(dict(zip(headers, row)))
 
-    # Save data to JSON file
-    with open(outpath, 'w') as f:
-        json.dump(data, f, indent=4)
-asyncio.get_event_loop().run_until_complete(scrape())
+        try:
+            # Convert string numbers in float values
+            for row in data:
+                row['Closing'] = float(row['Closing'].replace(',', ''))
+                row['Chg'] = float(row['Chg'].replace(',', ''))
+                row['Change'] = float(row['Change'].replace(',', ''))
+                row['High'] = float(row['High'].replace(',', ''))
+                row['Low'] = float(row['Low'].replace(',', ''))
+                row['Open'] = float(row['Open'].replace(',', ''))
+                row['Qty'] = float(row['Qty'].replace(',', ''))
+                row['Txn *'] = float(row['Txn *'].replace(',', ''))
 
-def read_nepse_data():
-    scrape()
-    with open("data\data.json","r") as d:
-        nepse = json.load(d)
-        return nepse 
+            if (os.path.exists(outpath)):
+                os.remove(outpath)
 
-#below this is experimental and contains heavy bugs and unnecessary code.
-conn = sqlite3.connect('data.db')
-date = datetime.datetime.now().strftime("%x")
-table_name = f"T_{date.replace('/', '_')}"
+            # Save data to JSON file
+            with open(outpath, 'w') as f:
+                json.dump(data, f, indent=4)
 
-def set_database():
-    c = conn.cursor()
-    c.execute(f"CREATE TABLE IF NOT EXISTS {table_name} (symbols text, Closing number, Change number, High number, Low number, Open number)")
-    conn.commit()
+        except:
+            print("Couldn't extract data")
 
-def data_to_database():
-    while true:
-        set_database()
-        scrape().to_sql(f'{table_name}', conn, if_exists='replace', index = False)
-        print("Job done \n\nTime to sleep")
-        now = datetime.datetime.now()
-        tomorrow = now + datetime.timedelta(days=1)
-        noon = datetime.datetime(year=tomorrow.year, month=tomorrow.month, day=tomorrow.day, hour=12, minute=0, second=0)
-        if now>=noon:
-            noon += datetime.timedelta(days=1)
-        time_to_sleep = (noon - now).total_seconds()
-        
-        # Sleep for the calculated time
-        time.sleep(time_to_sleep)
+    counter += 1
+    time.sleep(600)
+    asyncio.get_event_loop().run_until_complete(scrape())
